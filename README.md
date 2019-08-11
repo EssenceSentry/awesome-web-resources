@@ -10,7 +10,7 @@
 - [Calculators and Tables](#calculators-and-tables)
 - [Communication](#communication)
 - [Design](#design)
-- [Colours](#colours)
+- [Colors](#colors)
 - [Edition](#edition)
 - [Stock](#stock)
 	- [3D](#3d)
@@ -112,7 +112,7 @@
 
 - [Library Genesis](http://gen.lib.rus.ec/search.php) – Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.
 
-- [Sci-Hub](https://sci-hub.tw/%25s) – Первый в мире пиратский ресурс, который открыл массовый доступ к десяткам миллионов научных статей
+- [Sci-Hub](https://sci-hub.tw/) – The world's first pirate resource, which opened up massive access to tens of millions of scientific articles.
 
 # Archiving
 
@@ -148,7 +148,7 @@
 
 - [ProtectedText – Free online encrypted notepad – Save your text online](https://www.protectedtext.com/) – Free online encrypted notepad. Simple, no registration, no ads! Our unique security approach makes ProtectedText.com the most secure way to store notes online. Easy to use secure notepad that just works!
 
-- [Scratchpad – Realtime HTML and CSS Editor](http://scratchpad.io/innate-cellar-9569)
+- [Scratchpad – Realtime HTML and CSS Editor](http://scratchpad.io/)
 
 - [ZeroBin](https://sebsauvage.net/paste/)
 
@@ -176,7 +176,7 @@
 
 # Design
 
-# Colours
+# Colors
 
 - [Color Deck – A color palette collector](https://color.obscuredetour.com/)
 
@@ -362,7 +362,7 @@
 
 - [Mixkit – Royalty Free Videos and Illustrations](https://mixkit.co/) – Download high quality, royalty free video footage and art. New awesome creative assets being added daily that are completely free to use.
 
-- [Free Design Downloads : Fonts, Templates and Mockups](https://www.blugraphic.com/) – Download free psd files, patterns, textures, templates, mock-ups, icons, ui kits, ui elements, buttons, banners and other psd freebies.
+- [Free Design Downloads : Fonts, Templates and Mockups](https://www.blugraphic.com/) – Download free PSD files, patterns, textures, templates, mock-ups, icons, ui kits, ui elements, buttons, banners and other psd freebies.
 
 - [Free Design Resources – Daily Freebies for Creatives](https://freedesignresources.net/) – Daily Freebies for Creatives.
 
@@ -448,7 +448,7 @@
 
 - [Descargas CAD](http://www.skf.com/cl/knowledge-centre/engineering-tools/skf-bearings-housings-units-and-seals-cad-models-general-instructions.html)
 
-- [SimScale](https://www.simscale.com/tutorials/) – Engineering simulation in your browser – CFD, FEA + more | HPC engineering simulation in your web browser: CFD, FEA and more – efficient, scalable and flexible.
+- [SimScale](https://www.simscale.com/) – Engineering simulation in your browser – CFD, FEA + more | HPC engineering simulation in your web browser: CFD, FEA and more – efficient, scalable and flexible.
 
 # Entrepreneurs
 
@@ -462,7 +462,7 @@
 
 - [Startup Pitch Decks | Cirrus Insight](https://www.cirrusinsight.com/blog/startup-pitch-decks) – A collection of real fundraising decks from real startups. In total, these decks have raised over $400 million.
 
-- [Startup School](https://www.startupschool.org/register)
+- [Startup School](https://www.startupschool.org/)
 
 - [Supernova | Smart and easy to use business plan software](https://www.supernova-business.com/visitor_home/index/gb) – Find easily if your business project will be profitable : change your assumptions and follow our customized advices to improve your performance (growth, profit and cash), thanks to our smart business plan algorithm.
 
@@ -484,9 +484,9 @@
 
 ## Storage
 
-- [Box | Login](https://account.box.com/login)
+- [Box | Login](https://account.box.com/)
 
-- [Login – Dropbox](https://www.dropbox.com/login) – Login to Dropbox. Bring your photos, docs, and videos anywhere and keep your files safe.
+- [Login – Dropbox](https://www.dropbox.com/) – Login to Dropbox. Bring your photos, docs, and videos anywhere and keep your files safe.
 
 - [The Best Unlimited Online Backup and Cloud Storage Services](https://www.backblaze.com/) – Backblaze is a pioneer in robust, scalable low cost cloud backup and storage services. Personal online backup to enterprise scale data storage solutions.
 
@@ -494,11 +494,11 @@
 
 - [Meet Google Drive – One place for all your files](https://drive.google.com/drive/my-drive) – Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.
 
-- [hubiC – OVH](https://hubic.com/home/) – Connectez-vous à votre compte hubiC depuis votre navigateur.
+- [hubiC – OVH](https://hubic.com/) – Connectez-vous à votre compte hubiC depuis votre navigateur.
 
-- [MEGA](https://mega.nz/start) – MEGA provides free cloud storage with convenient and powerful always-on privacy. Claim your free 50GB now!
+- [MEGA](https://mega.nz/) – MEGA provides free cloud storage with convenient and powerful always-on privacy. Claim your free 50GB now!
 
-- [Yandex](https://passport.yandex.com/auth)
+- [Yandex](https://passport.yandex.com/)
 
 # Health
 
@@ -512,7 +512,7 @@
 
 # Languages
 
-- [ESL: English as a Second Language for Teachers & Students – 7 E S L](https://7esl.com/#30cbbcc1un) – English as a Second Language! Useful Learning Resources with ESL Printable Worksheets and Pictures for ESL Students and English Teachers.
+- [ESL: English as a Second Language for Teachers & Students – 7 E S L](https://7esl.com/) – English as a Second Language! Useful Learning Resources with ESL Printable Worksheets and Pictures for ESL Students and English Teachers.
 
 - [Fantasy name generators. Names for all your fantasy characters.](https://www.fantasynamegenerators.com/) – A fantasy name generator for every fantasy character. From Chinese to Viking and from dragon to werewolf, I have a fantasy name generator for all your needs.
 
@@ -534,7 +534,7 @@
 
 - [Dictionary.com | Meanings and Definitions of Words at Dictionary.com](https://www.dictionary.com/) – Dictionary.com is the world’s leading online source for English definitions, synonyms, word origins and etymologies, audio pronunciations, example sentences, slang phrases, idioms, word games, legal and medical terms, Word of the Day and more. For over 20 years, Dictionary.com has been helping millions of people improve their use of the English language with its free digital services.
 
-- [English Collocations](http://www.linguatools.de/kollokationen-en/) – English collocations online – colocaciones del inglés.
+- [English Collocations](http://www.linguatools.de/kollokationen-en/) – English collocations online.
 
 - [English Grammar Today on Cambridge Dictionary](https://dictionary.cambridge.org/grammar/british-grammar/) – Home page for English Grammar Today on Cambridge Dictionary.
 
@@ -682,7 +682,7 @@
 
 - [Clockify – 100% Free Time Tracking Software](https://clockify.me/) – Clockify is the only completely free time tracking software for teams. It's a simple time tracker and timesheet app for tracking work hours across projects.
 
-- [Inthe.AM](https://inthe.am/about)
+- [Inthe.AM](https://inthe.am/)
 
 - [Manage your team’s work, projects, & tasks online · Asana](https://asana.com/) – Easily organize and plan workflows, projects, and more, so you can keep your team's work on schedule. Start using Asana as your work management tool today.
 
@@ -734,11 +734,11 @@
 
 - [Repl.it – The world's leading online coding platform](https://repl.it/) – Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, Python, Nodejs, Enzyme, Go, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil, Crystal, Julia, Elixir, Nim, Reason NodeJs, Erlang, TypeScript, Pygame, Love2D, Tkinter, Java Swing, Emacs Lisp (Elisp), PHP Web Server, SQLite, Java, PHP CLI, Pyxel.
 
-- [RunKit is Node prototyping](https://runkit.com/home) – RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every npm module pre-installed.
+- [RunKit is Node prototyping](https://runkit.com/home) – RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every NPM module pre-installed.
 
 - [RunMyCode Online](https://runmycode.online/) – RunMyCode Online is a free and open-source tool to compile and run code online, directly from GitHub, GitLab, BitBucket, and more.
 
-- [Superfast Online Java Compiler, Editer and IDE – Codiva.io – Compile and Run Java Online](https://www.codiva.io/) – Compile and run C, C++, Java programs online with Codiva.io. Used by CS teachers in the US, India, Phillipines, ... Compiles as you type with auto complete suggestions. It is fast, even on 2G mobile. Try now!
+- [Superfast Online Java Compiler, Editer and IDE – Codiva.io – Compile and Run Java Online](https://www.codiva.io/) – Compile and run C, C++, Java programs online with Codiva.io. Used by CS teachers in the US, India, Philippines, ... Compiles as you type with auto complete suggestions. It is fast, even on 2G mobile. Try now!
 
 - [Try It Online](https://tio.run/#)
 
@@ -750,7 +750,7 @@
 
 - [Codeboard · the IDE for the classroom](https://codeboard.io/)
 
-- [Codenvy](https://codenvy.io/site/login) – Developer workspaces to modify, run and debug code in the cloud or on-premises.
+- [Codenvy](https://codenvy.io/) – Developer workspaces to modify, run and debug code in the cloud or on-premises.
 
 - [Eclipse Che | SaaS Cloud](https://www.eclipse.org/che/getting-started/cloud/) – Eclipse Che Next-Generation Eclipse IDE.
 
@@ -764,7 +764,7 @@
 
 - [Datalore](https://datalore.io/) – Datalore is an interactive web-based workbook for data analysis, scientific exploration and visualization in Python.
 
-- [Hello, Colaboratory – Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
+- [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 - [Notebooks | Kaggle](https://www.kaggle.com/kernels)
 
@@ -780,7 +780,7 @@
 
 - [Plunker – Helping you build the web](http://next.plnkr.co/)
 
-- [GDB online Debugger | Compiler – Code, Compile, Run, Debug online C, C++](https://www.onlinegdb.com/) – Online GDB is online compiler and debugger for C/C++. You can compile, run and debug code with gdb online. Using gcc/g++ as compiler and gdb as debugger. Currently C and C++ languages are supported.
+- [GDB online Debugger | Compiler – Code, Compile, Run, Debug online C, C++](https://www.onlinegdb.com/) – Online GDB is online compiler and debugger for C/C++. You can compile, run and debug code with GDB online. Using gcc/g++ as compiler and gdb as debugger. Currently C and C++ languages are supported.
 
 
 
@@ -802,11 +802,11 @@
 
 - [Custom Search Engine](https://cse.google.com/cse)
 
-- [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/) – OverAPI.com is a site collecting all the cheatsheets,all!
+- [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/) – OverAPI.com is a site collecting all the cheatsheets, all!
 
 - [Recipes « ActiveState Code](https://code.activestate.com/recipes/)
 
-- [searchcode | source code search engine](https://searchcode.com/) – searchcode is a free source code and documentation search engine. API documentation, code snippets and open source (free sofware) repositories are indexed and searchable.
+- [searchcode | source code search engine](https://searchcode.com/) – searchcode is a free source code and documentation search engine. API documentation, code snippets and open source (free software) repositories are indexed and searchable.
 
 - [SyntaxDB](https://syntaxdb.com/reference/search)
 
@@ -814,7 +814,7 @@
 
 - [Deployd](https://deployd.com/)
 
-- [jsDelivr – A free, fast, and reliable Open Source CDN for npm & GitHub](https://www.jsdelivr.com/) – A free, fast, and reliable Open Source CDN for npm and GitHub with the largest network and best performance among all CDNs. Serving more than 40 billion requests per month.
+- [jsDelivr – A free, fast, and reliable Open Source CDN for NPM & GitHub](https://www.jsdelivr.com/) – A free, fast, and reliable Open Source CDN for npm and GitHub with the largest network and best performance among all CDNs. Serving more than 40 billion requests per month.
 
 - [localhost.run – Instant localhost sharing](http://localhost.run/) – localhost.run – Instant localhost sharing.
 
@@ -834,7 +834,7 @@
 
 - Regulex：JavaScript Regular Expression Visualizer.
 
-- [txt2re: headache relief for programmers :: regular expression generator](http://www.txt2re.com/index-python.php3) – Regular Expression Generator for languages Perl PHP Python Java Javascript ColdFusion C C++ Ruby VB VBScript JSharp CSharp C++.dotnet VB.dotnet
+- [txt2re: headache relief for programmers :: regular expression generator](http://www.txt2re.com/index-python.php3) – Regular Expression Generator for languages Perl PHP Python Java Javascript ColdFusion C C++ Ruby VB VBScript JSharp CSharp C++ dotnet VB
 
 ## Web development
 
@@ -846,7 +846,7 @@
 
 - [CSS Inliner Tool | Email Design Reference](https://templates.mailchimp.com/resources/inline-css/)
 
-- [Pika – Search npm for fast, modern packages.](https://www.pika.dev/) – Find modern, web-ready packages on npm. Get faster, smaller JavaScript bundles.
+- [Pika – Search npm for fast, modern packages.](https://www.pika.dev/) – Find modern, web-ready packages on NPM. Get faster, smaller JavaScript bundles.
 
 - [Postman | API Development Environment](https://www.getpostman.com/) – Postman is the only complete API development environment used by more than 7 million developers and 300,000 companies worldwide.
 
@@ -856,7 +856,7 @@
 
 - [Responsive Image Breakpoints Generator by Cloudinary](https://responsivebreakpoints.com/) – Efficiently analyze each hi-res image and find the best dimensions for embedding as responsive images in your site.
 
-- [REST test test...](https://resttesttest.com/)
+- [REST test...](https://resttesttest.com/)
 
 - [TestMace — API testing tool Slack Telegram](https://client.testmace.com/) – Your IDE to work with API. Work with API following the best software development practices.
 
@@ -882,7 +882,7 @@
 
 # Speech to text
 
-- [SpeechTexter | Type with your voice!](https://www.speechtexter.com/) – Online voice to text speech recognition. Dictate with your voice. Free web app for typing with your voice. Over 60 different languages supported! A Dragon NaturallySpeaking free alternative.
+- [SpeechTexter | Type with your voice!](https://www.speechtexter.com/) – Online voice to text speech recognition. Dictate with your voice. Free web app for typing with your voice. Over 60 different languages supported! A Dragon Naturally Speaking free alternative.
 
 - [Voice Dictation – Online Speech Recognition](https://dictation.io/) – Dictation is a free online speech recognition software that will help you write emails, documents and essays using your voice narration and without typing.
 
@@ -896,7 +896,7 @@
 
 - [Namecheap Education Program: Free Domains for Students](https://nc.me/) – The Namecheap Education Program offers a free domain and website to university students worldwide.
 
-- [Sign in | Algolia](https://www.algolia.com/users/sign_in) – Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.
+- [Sign in | Algolia](https://www.algolia.com/) – Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.
 
 - [Heroku](https://dashboard.heroku.com/apps)
 
@@ -928,8 +928,8 @@
 
 - [Extract Title Tag and Meta Description from URLs – Free SEO Tool](http://tools.buzzstream.com/meta-tag-extractor) – Enter a list of URLs and this tool will return the title tag, keywords and description for them.
 
-- [SlimWiki — Sign in](https://slimwiki.com/the-essence-sentry) – Beautiful Wikis for Teams. Get started today, free forever!
+- [SlimWiki — Sign in](https://slimwiki.com/) – Beautiful Wikis for Teams. Get started today, free forever!
 
-- [Watch Series – Full Episodes](https://newepisodes.co/) – High quality streaming links to the most popular tvshows minutes after they air!
+- [Watch Series – Full Episodes](https://newepisodes.co/) – High quality streaming links to the most popular TV shows minutes after they air!
 
 - [DownSub.com | Download and save subtitles](https://downsub.com/) – DownSub is a free web application that can download and save subtitles directly from Youtube, Drive, DramaFever, Viki, OnDemandKorea, Vlive and more.
