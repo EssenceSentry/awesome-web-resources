@@ -1,62 +1,62 @@
 # Contents
 
-- Academic
-	- Data
-	- Encyclopedias
-	- Search
-- Archiving
-- Avoid spam
-- Bins and Pads
-- Calculators and Tables
-- Communication
-- Design
-- Colours
-- Edition
-- Stock
-	- 3D
-	- Illustrations
-	- Photos
-	- Search
-	- Sound
-	- Vectors and Icons
-	- Video
-	- Typography
-- Documents
-	- Latex
-	- Notebooks
-	- OCR
-	- PDFs and Converters
-- Electronics and Mechanics
-- Entrepreneurs
-- Files and Sharing
-- Sharing
-- Storage
-- Health
-- Languages
-	- Dictionaries
-	- Proofreading and Checking
-- Spanish
-- Learn
-- Legal
-- Math education
-- Privacy
-- Productivity
-- Programming
-	- Academic
-	- Chatbots
-	- Code online
-		- Basic compilers
-		- Full IDE
-		- Jupyter notebooks
-	- Web prototyping
-	- Documentation search
-	- Hosts and CDNs
-	- Regex
-	- Web development
-- Speech to text
-- Student resources
-- Visualizations
-- Others
+- [Academic](#academic)
+	- [Data](#data)
+	- [Encyclopedias](#encyclopedias)
+	- [Search](#search)
+- [Archiving](#archiving)
+- [Avoid spam](#avoid-spam)
+- [Bins and Pads](#bins-and-pads)
+- [Calculators and Tables](#calculators-and-tables)
+- [Communication](#communication)
+- [Design](#design)
+- [Colours](#colours)
+- [Edition](#edition)
+- [Stock](#stock)
+	- [3D](#3d)
+	- [Illustrations](#illustrations)
+	- [Photos](#photos)
+	- [Search](#search)
+	- [Sound](#sound)
+	- [Vectors and Icons](#vectors-and-icons)
+	- [Video](#video)
+	- [Typography](#typography)
+- [Documents](#documents)
+	- [Latex](#latex)
+	- [Notebooks](#notebooks)
+	- [OCR](#ocr)
+	- [PDFs and Converters](#pdfs-and-converters)
+- [Electronics and Mechanics](#electronics-and-mechanics)
+- [Entrepreneurs](#entrepreneurs)
+- [Files and Sharing](#files-and-sharing)
+- [Sharing](#sharing)
+- [Storage](#storage)
+- [Health](#health)
+- [Languages](#languages)
+	- [Dictionaries](#dictionaries)
+	- [Proofreading and Checking](#proofreading-and-checking)
+- [Spanish](#spanish)
+- [Learn](#learn)
+- [Legal](#legal)
+- [Math education](#math-education)
+- [Privacy](#privacy)
+- [Productivity](#productivity)
+- [Programming](#programming)
+	- [Academic](#academic)
+	- [Chatbots](#chatbots)
+	- [Code online](#code-online)
+		- [Basic compilers](#basic-compilers)
+		- [Full IDE](#full-ide)
+		- [Jupyter notebooks](#jupyter-notebooks)
+	- [Web prototyping](#web-prototyping)
+	- [Documentation search](#documentation-search)
+	- [Hosts and CDNs](#hosts-and-cdns)
+	- [Regex](#regex)
+	- [Web development](#web-development)
+- [Speech to text](#speech-to-text)
+- [Student resources](#student-resources)
+- [Visualizations](#visualizations)
+- [Others](#others)
 
 # Academic
 
