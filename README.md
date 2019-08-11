@@ -512,7 +512,7 @@
 
 # Languages
 
-- [ESL: English as a Second Language for Teachers & Students - 7 E S L](https://7esl.com/# 30cbbcc1un) - English as a Second Language! Useful Learning Resources with ESL Printable Worksheets and Pictures for ESL Students and English Teachers.
+- [ESL: English as a Second Language for Teachers & Students - 7 E S L](https://7esl.com/#30cbbcc1un) - English as a Second Language! Useful Learning Resources with ESL Printable Worksheets and Pictures for ESL Students and English Teachers.
 
 - [Fantasy name generators. Names for all your fantasy characters.](https://www.fantasynamegenerators.com/) - A fantasy name generator for every fantasy character. From Chinese to Viking and from dragon to werewolf, I have a fantasy name generator for all your needs.
 
