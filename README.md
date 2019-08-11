@@ -112,7 +112,7 @@
 
 - [Library Genesis](http://gen.lib.rus.ec/search.php) - Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.
 
-- [Sci-Hub: устраняя преграды на пути распространения знаний](https://sci-hub.tw/%25s) - Первый в мире пиратский ресурс, который открыл массовый доступ к десяткам миллионов научных статей
+- [Sci-Hub](https://sci-hub.tw/%25s) - Первый в мире пиратский ресурс, который открыл массовый доступ к десяткам миллионов научных статей
 
 # Archiving
 
@@ -470,7 +470,7 @@
 
 # Files and Sharing
 
-# Sharing
+## Sharing
 
 - [Anonymous File Upload - AnonFile](https://anonfile.com/)
 
@@ -482,7 +482,7 @@
 
 - [transfer.sh - Easy and fast file sharing from the command-line.](https://transfer.sh/)
 
-# Storage
+## Storage
 
 - [Box | Login](https://account.box.com/login)
 
