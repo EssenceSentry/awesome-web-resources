@@ -202,7 +202,7 @@
 
 - [GoArt | Fotor – Art Effect to Transfer Photo to Art Online| Fotor Photo Editor](http://goart.fotor.com/) - With just one click, GoArt will transfer your photo to art online! Providing multiple art effects and styles, everyone can turn photo into painting and artwork with Fotor’s GoArt. GoArt is the new online prisma effect you can’t miss!
 
-- [InVision | Digital product design, workflow & collaboration](https://www.invisionapp.com/# tour) - InVision is the digital product design platform used to make the world’s best customer experiences.
+- [InVision | Digital product design, workflow & collaboration](https://www.invisionapp.com/#tour) - InVision is the digital product design platform used to make the world’s best customer experiences.
 
 - [Mantra](https://jeremyckahn.github.io/mantra/)
 
@@ -272,7 +272,7 @@
 
 - [DrawKit - Beautiful free illustrations](https://www.drawkit.io/) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
 
-- [Free Illustrations [Free SVG Images](https://lukaszadam.com/illustrations) -  MIT licensed Vectors] - Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use.
+- [Free Illustrations](https://lukaszadam.com/illustrations) - Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use.
 
 - [Humaaans: Mix-&-Match illustration library](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
 
@@ -512,6 +512,16 @@
 
 # Languages
 
+- [ESL: English as a Second Language for Teachers & Students - 7 E S L](https://7esl.com/# 30cbbcc1un) - English as a Second Language! Useful Learning Resources with ESL Printable Worksheets and Pictures for ESL Students and English Teachers.
+
+- [Fantasy name generators. Names for all your fantasy characters.](https://www.fantasynamegenerators.com/) - A fantasy name generator for every fantasy character. From Chinese to Viking and from dragon to werewolf, I have a fantasy name generator for all your needs.
+
+- [Good Copy • Email copy from great companies](https://www.goodemailcopy.com/)
+
+- [Google Traductor](https://translate.google.com.uy/) - El servicio gratuito de Google traduce al instante palabras, frases y páginas web del español a más de cien idiomas.
+
+- [Preparing for the Writing Proficiency Exam (WPE) - Writing & Rhetoric Center - Cal Poly, San Luis Obispo](https://writingcenter.calpoly.edu/content/gwr/wpe/wpe_prep) - Writing is a learned skill that composition and other writing-intensive classes help you cultivate through sustained practice. Reviewing the writing skills you have learned throughout your time in high school and college can help you prepare to succeed on the WPE. There are also a number of resources to help you with WPE preparation.
+
 ## Dictionaries
 
 - [Cambridge Dictionary | English Dictionary, Translations & Thesaurus](https://dictionary.cambridge.org/) - The most popular dictionary and thesaurus for learners of English. Meanings and definitions of words with pronunciations and translations.
@@ -538,7 +548,7 @@
 
 - [Online OXFORD Collocation Dictionary of English](http://www.freecollocation.com/) - Free Online Oxford Collocation Dictionary for Advanced English Learners
 
-- [Pattern Dictionary of English Verbs](http://pdev.org.uk/# browse) - Corpus Pattern Analysis
+- [Pattern Dictionary of English Verbs](http://pdev.org.uk/#browse) - Corpus Pattern Analysis
 
 - [Thesaurus.com | Synonyms and Antonyms of Words at Thesaurus.com](https://www.thesaurus.com/) - Thesaurus.com is the world’s largest and most trusted free online thesaurus brought to you by Dictionary.com. For over 20 years, Thesaurus.com has been helping millions of people improve their mastery of the English language and find the precise word with over 3 million synonyms and antonyms and the ability to filter search results by relevance, word length, and complexity.
 
@@ -568,16 +578,6 @@
 
 - Diccionario panhispánico 
 
-- [ESL: English as a Second Language for Teachers & Students - 7 E S L](https://7esl.com/# 30cbbcc1un) - English as a Second Language! Useful Learning Resources with ESL Printable Worksheets and Pictures for ESL Students and English Teachers.
-
-- [Fantasy name generators. Names for all your fantasy characters.](https://www.fantasynamegenerators.com/) - A fantasy name generator for every fantasy character. From Chinese to Viking and from dragon to werewolf, I have a fantasy name generator for all your needs.
-
-- [Good Copy • Email copy from great companies](https://www.goodemailcopy.com/)
-
-- [Google Traductor](https://translate.google.com.uy/) - El servicio gratuito de Google traduce al instante palabras, frases y páginas web del español a más de cien idiomas.
-
-- [Preparing for the Writing Proficiency Exam (WPE) - Writing & Rhetoric Center - Cal Poly, San Luis Obispo](https://writingcenter.calpoly.edu/content/gwr/wpe/wpe_prep) - Writing is a learned skill that composition and other writing-intensive classes help you cultivate through sustained practice. Reviewing the writing skills you have learned throughout your time in high school and college can help you prepare to succeed on the WPE. There are also a number of resources to help you with WPE preparation:
-
 # Learn
 
 - [| Stanford Lagunita](https://lagunita.stanford.edu/)
@@ -586,7 +586,7 @@
 
 - [Courses | SoloLearn: Learn to code for FREE!](https://www.sololearn.com/Courses/) - Available Courses on SoloLearn
 
-- [GitHub - danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x# build-your-own-bot) - 🤓 Build your own (insert technology here). Contribute to danistefanovic/build-your-own-x development by creating an account on GitHub.
+- [GitHub - build-your-own-x: 🤓 Build your own ...insert technology here](https://github.com/danistefanovic/build-your-own-x# build-your-own-bot) - 🤓 Build your own (insert technology here). Contribute to danistefanovic/build-your-own-x development by creating an account on GitHub.
 
 - [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](http://d2l.ai/)
 
@@ -608,7 +608,7 @@
 
 - [GitHub - ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! - ossu/computer-science
 
-- [GitHub - ossu/data-science: Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science# machine-learning) - :bar_chart: Path to a free self-taught education in Data Science! - ossu/data-science
+- [GitHub - ossu/data-science: Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science#machine-learning) - :bar_chart: Path to a free self-taught education in Data Science! - ossu/data-science
 
 - [Google Developers](https://developers.google.com/) - Everything you need to build better apps.
 
@@ -674,7 +674,7 @@
 
 - [Remove an image from Google | canig](https://www.canig.com/removing-images-from-google-image-search/) - Step by step, how to find a URL of an image cached in Google's image search and how you delete it from the image search results.
 
-- [Reset The Net - Privacy Pack](https://pack.resetthenet.org/# more-android)
+- [Reset The Net - Privacy Pack](https://pack.resetthenet.org/#more-android)
 
 - [Tails - Privacy for anyone anywhere](https://tails.boum.org/)
 
@@ -892,7 +892,7 @@
 
 - [GCP Free Tier - Free Extended Trials and Always Free  |  Google Cloud](https://cloud.google.com/free/) - GCP Free Tier expands our free program in two ways. $300 credit in a 12-month free trial and Always Free. Learn more.
 
-- [GitHub Student Developer Pack - GitHub Education](https://education.github.com/pack# offers) - The GitHub Student Developer Pack is all you need to learn how to code. Get your Pack now.
+- [GitHub Student Developer Pack - GitHub Education](https://education.github.com/pack#offers) - The GitHub Student Developer Pack is all you need to learn how to code. Get your Pack now.
 
 - [Home - Microsoft Azure](https://portal.azure.com/Error/UE_404)
 
