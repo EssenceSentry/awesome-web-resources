@@ -530,7 +530,7 @@
 
 - [ConceptNet 5: program](http://www.conceptnet.io/c/en/program)
 
-- [Dictionary by Merriam-Webster: America's most-trusted online dictionary](https://www.merriam-webster.com/) - The dictionary by Merriam-Webster is America's most trusted online dictionary for English word definitions, meanings, and pronunciation. # wordsmatter
+- [Dictionary by Merriam-Webster: America's most-trusted online dictionary](https://www.merriam-webster.com/) - The dictionary by Merriam-Webster is America's most trusted online dictionary for English word definitions, meanings, and pronunciation. #wordsmatter
 
 - [Dictionary.com | Meanings and Definitions of Words at Dictionary.com](https://www.dictionary.com/) - Dictionary.com is the world’s leading online source for English definitions, synonyms, word origins and etymologies, audio pronunciations, example sentences, slang phrases, idioms, word games, legal and medical terms, Word of the Day and more. For over 20 years, Dictionary.com has been helping millions of people improve their use of the English language with its free digital services.
 
@@ -586,7 +586,7 @@
 
 - [Courses | SoloLearn: Learn to code for FREE!](https://www.sololearn.com/Courses/) - Available Courses on SoloLearn
 
-- [GitHub - build-your-own-x: 🤓 Build your own ...insert technology here](https://github.com/danistefanovic/build-your-own-x# build-your-own-bot) - 🤓 Build your own (insert technology here). Contribute to danistefanovic/build-your-own-x development by creating an account on GitHub.
+- [GitHub - build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-bot) - 🤓 Build your own (insert technology here). Contribute to danistefanovic/build-your-own-x development by creating an account on GitHub.
 
 - [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](http://d2l.ai/)
 
