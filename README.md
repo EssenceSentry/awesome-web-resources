@@ -20,7 +20,7 @@
 	- [Sound](#sound)
 	- [Vectors and Icons](#vectors-and-icons)
 	- [Video](#video)
-	- [Typography](#typography)
+- [Typography](#typography)
 - [Documents](#documents)
 	- [Latex](#latex)
 	- [Notebooks](#notebooks)
@@ -62,17 +62,15 @@
 
 ## Data
 
-- [Academic Torrents](http://academictorrents.com/) – We've designed a distributed system for sharing enormous datasets – for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
+- [Academic Torrents](http://academictorrents.com/) – Distributed system for sharing enormous datasets – for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
 
 - [Data Science Toolkit](http://www.datasciencetoolkit.org/)
 
-- [Dataset Search](https://toolbox.google.com/datasetsearch)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 - [DBpedia Spotlight – Shedding light on the web of documents](https://www.dbpedia-spotlight.org/)
 
-- [Sign in – Google Accounts](https://datastudio.google.com/navigation/reporting)
-
-- [Dataset Search](https://toolbox.google.com/datasetsearch/search)
+- [Google DataStudio](https://datastudio.google.com/navigation/reporting)
 
 - [ImageNet](http://image-net.org/)
 
@@ -100,19 +98,19 @@
 
 - [Crossref Metadata Search](https://search.crossref.org/)
 
-- [Open Semantic Search: Your own search engine for documents, images, tables, files, intranet & news](https://www.opensemanticsearch.org/) – Apache Solr (open source enterprise-search) based free software & open source research tools for faceted search, exploratory search, tagging & annotation, text mining, OCR & datavisualization.
+- [Open Semantic Search](https://www.opensemanticsearch.org/) – Apache Solr (open source enterprise-search) based free software & open source research tools for faceted search, exploratory search, tagging & annotation, text mining, OCR & data visualization.
 
 - [ScienceResearch.com – One Search. Superior Science.](http://scienceresearch.com/scienceresearch/) – The world's most comprehensive, public science and technology research portal, searching over 400 collections globally. ScienceResearch.com uses federated search technology to retrieve results in real-time, merge, de-dupe and rank the results for quick answers and information discovery.
 
 - [Semantic Scholar – An academic search engine for scientific articles](https://www.semanticscholar.org/) – An academic search engine that utilizes artificial intelligence methods to provide highly relevant results and novel tools to filter them with ease.
 
-- [semion.io – search arXiv preprints](https://www.semion.io/) – semion.io – search scientific content on arXiv.org. Find preprints in physics and astrophysics, mathematics and statistics, computer science, machine learning and deep learning, electrical engineering and systems science, economics and quantitative finance, and quantitative biology.
+- [semion.io – search arXiv preprints](https://www.semion.io/) – search scientific content on arXiv.org. Find preprints in physics and astrophysics, mathematics and statistics, computer science, machine learning and deep learning, electrical engineering and systems science, economics and quantitative finance, and quantitative biology.
 
-- [Fermat's Library](https://fermatslibrary.com/dashboard)
+- [Fermat's Library](https://fermatslibrary.com/)
 
 - [Library Genesis](http://gen.lib.rus.ec/search.php) – Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.
 
-- [Sci-Hub](https://sci-hub.tw/) – The world's first pirate resource, which opened up massive access to tens of millions of scientific articles.
+- [Sci-Hub](https://sci-hub.tw/) – The world's first pirate science resource, which opened up massive access to tens of millions of scientific articles.
 
 # Archiving
 
@@ -182,7 +180,7 @@
 
 - [Colourcode – Color palette](https://colourco.de/) – colourco.de is an online designer tool, which allows you to easily and intuitively combine colours.
 
-- [Coolors.co – The super fast color schemes generator hero_last hero_last](https://coolors.co/) – Beautiful color palettes for your projects.
+- [Coolors.co – The super fast color schemes generator](https://coolors.co/) – Beautiful color palettes for your projects.
 
 - [Culrs | Culrs gives you a simple smart approach to choose color palettes](https://culrs.com/) – Thoughtfully crafted and easy-to-use color palettes.
 
@@ -192,7 +190,7 @@
 
 - [2D – Animation Tools for Apps, Games, and Web](https://www.2dimensions.com/) – Bring your apps and games to life with real-time animation. Flare is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to Flutter, iOS, Android, Unity, OpenGL, C++, C#, OpenTK, HTML, JS, and other apps and games.
 
-- [Log In | Deep Dream Generator](https://deepdreamgenerator.com/login)
+- [Deep Dream Generator](https://deepdreamgenerator.com/)
 
 - [Amazingly Simple Graphic Design Software – Canva](https://www.canva.com/) – Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.
 
@@ -202,7 +200,7 @@
 
 - [GoArt | Fotor – Art Effect to Transfer Photo to Art Online| Fotor Photo Editor](http://goart.fotor.com/) – With just one click, GoArt will transfer your photo to art online! Providing multiple art effects and styles, everyone can turn photo into painting and artwork with Fotor’s GoArt. GoArt is the new online prisma effect you can’t miss!
 
-- [InVision | Digital product design, workflow & collaboration](https://www.invisionapp.com/#tour) – InVision is the digital product design platform used to make the world’s best customer experiences.
+- [InVision | Digital product design, workflow & collaboration](https://www.invisionapp.com/) – InVision is the digital product design platform used to make the world’s best customer experiences.
 
 - [Mantra](https://jeremyckahn.github.io/mantra/)
 
@@ -230,7 +228,7 @@
 
 - [uizard](https://uizard.io/) – Uizard, the future of app development. Transform mobile hand-drawn wireframes automatically to Sketch and download the React Native code! Code less, create more.
 
-- [Upscale image without losing quality – imageupscaler](https://imageupscaler.com/) – Image Upscaler is online service that resize images without losing quality. It use deep learning technology for new pixels estimation.
+- [Upscale image without losing quality – imageupscaler](https://imageupscaler.com/) – Image Upscaler is online service that resize images without losing quality. It uses deep learning technology for new pixels estimation.
 
 - [Vectr – Free Online Vector Graphics Editor](https://vectr.com/) – Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.
 
@@ -240,13 +238,23 @@
 
 # Stock
 
+- [Free Design Downloads : Fonts, Templates and Mockups](https://www.blugraphic.com/) – Download free PSD files, patterns, textures, templates, mock-ups, icons, ui kits, ui elements, buttons, banners and other psd freebies.
+
+- [Free Design Resources – Daily Freebies for Creatives](https://freedesignresources.net/) – Daily Freebies for Creatives.
+
+- [GraphicBurger](https://graphicburger.com/) – Tasty design resources made with care for each pixel. Free for both personal & commercial use. Have a bite!
+
+- [Neede Design Resources](https://neede.co/#/) – Neede is a curated collection of some of the best online design resources.
+
+- [Public Design Vault – Design tools for public good, all in one place.](https://publicdesignvault.com/)
+
 ## 3D
 
 - [3D ContentCentral – Free 3D CAD Models, 2D Drawings, and Supplier Catalogs](https://www.3dcontentcentral.com/) – Dassault Systèmes 3D ContentCentral is a free library of thousands of high quality 3D CAD models from hundreds of suppliers. Millions of users download 3D and 2D CAD files everyday.
 
 - [Top 500 3D Models – 3D CAD Browser](https://www.3dcadbrowser.com/3dmodels.aspx) – Download Top 500 3D Models for 3ds Max, Maya, Cinema 4D, Lightwave, Softimage, Blender and other 3D modeling and animation software.
 
-- [3D Models for Professionals :: TurboSquid](https://www.turbosquid.com/) – Buy 3D models for your project from our vast online catalog of cars, people, textures, architectural models and more.
+- [3D Models for Professionals :: TurboSquid](https://www.turbosquid.com/) – Vast online catalog of cars, people, textures, architectural models and more.
 
 - [Free 3D BIM Objects & CAD Models](https://bimcatalogs.partcommunity.com/3d-cad-models/bim-categories) – 3D BIM & CAD models.
 
@@ -260,11 +268,9 @@
 
 - [Models | 3D Resources](https://nasa3d.arc.nasa.gov/models) – 3D Resources web application.
 
-- [Open Source 3D Models – iDigFossils](http://www.idigfossils.org/open-source-3d-models/) – MorphoSource MorphoSource is a project-based data archive that allows researchers to store and organize, share, and distribute their own 3d data. Furthermore any registered user can immediately search for and download 3d morphological data sets that have been made accessible through the consent of data authors. MorphoSource search results can be linked to labeled renderings…
+- [Open Source 3D Models – iDigFossils](http://www.idigfossils.org/open-source-3d-models/) – MorphoSource is a project-based data archive that allows researchers to store and organize, share, and distribute their own 3d data. Furthermore any registered user can immediately search for and download 3d morphological data sets that have been made accessible through the consent of data authors. MorphoSource search results can be linked to labeled renderings…
 
 - [3D CAD Model Collection | GrabCAD Community Library](https://grabcad.com/library) – Looking for downloadable 3D printing models, designs, and CAD files? Join the GrabCAD Community to get access to 2.5 million free CAD files from the largest collection of professional designers, engineers, manufacturers, and students on the planet.
-
-- [Top 500 3D Models – 3D CAD Browser](https://www.3dcadbrowser.com/3dmodels.aspx) – Download Top 500 3D Models for 3ds Max, Maya, Cinema 4D, Lightwave, Softimage, Blender and other 3D modeling and animation software.
 
 ## Illustrations
 
@@ -284,23 +290,23 @@
 
 ## Photos
 
-- [1 million+ Stunning Free Images to Use Anywhere – Pixabay](https://pixabay.com/) – Find your perfect free image or video to download and use for anything. ✓ Free for commercial use ✓ No attribution required ✓ High quality images.
+- [Pixabay](https://pixabay.com/) – 1 million+ Stunning Free Images to Use Anywhere. Find your perfect free image or video to download and use for anything. ✓ Free for commercial use ✓ No attribution required ✓ High quality images.
 
-- [Beautiful Free Images & Pictures | Unsplash go to homepage go to collections feed open/close uploader go to search Unsplash Home](https://unsplash.com/) – Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+- [Unsplash](https://unsplash.com/) – Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 
-- [Explore over 300,000 free stock photos and royalty free images – FreeImages.com](https://www.freeimages.com/) – Browse over 300,000 free stock photos and find the perfect royalty-free image quickly. Download free, high quality stock images, for every day or commercial use. No purchase required.
+- [FreeImages.com](https://www.freeimages.com/) – Browse over 300,000 free stock photos and find the perfect royalty-free image quickly. Download free, high quality stock images, for every day or commercial use. No purchase required.
 
-- [Free Images and Free Stock Photos – Avopix.com](https://avopix.com/) – Free photos and images for commercial use, no attribution required under Creative Commons Zero (public domain) licence. Get free photos and images now for you for free.
+- [Avopix.com](https://avopix.com/) – Free photos and images for commercial use, no attribution required under Creative Commons Zero (public domain) licence. Get free photos and images now for you for free.
 
-- [Free stock photos · Pexels](https://www.pexels.com/) – Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.
+- [Pexels](https://www.pexels.com/) – Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.
 
-- [HDRIs | HDRI Haven](https://hdrihaven.com/hdris/) – 100% Free High Quality HDRIs for Everyone.
+- [HDRI Haven](https://hdrihaven.com/hdris/) – 100% Free High Quality HDRIs for Everyone.
 
 - [Lorem Picsum](https://picsum.photos/) – Lorem Ipsum... but for photos.
 
 ## Search
 
-- [Free Stock Images & Videos ](https://allthefreestock.com/#) – AllTheFreeStock.com
+- [Free Stock Images & Videos](https://allthefreestock.com/#) – AllTheFreeStock.com
 
 - [Librestock Photos – Free Stock Photo Search Engine](https://librestock.com/) – We scan and index the best free photos from the top stock sites. All photos are free for personal and commercial. No attribution required. CC0.
 
@@ -312,9 +318,9 @@
 
 - [Free Royalty Free Music — Fugue](https://icons8.com/music) – Download free background music for your videos, movies, and websites. Free both for personal and commercial projects.
 
-- [Freesound – Freesound](https://freesound.org/) – Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?
+- [Freesound](https://freesound.org/) – Collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?
 
-- [Thousands of Albums. Completely Free. Completely Legal :: NoiseTrade :: Paste Magazine :: NoiseTrade](https://www.pastemagazine.com/noisetrade/music/) – Thousands of Albums. Completely Free. Completely Legal :: NoiseTrade :: Paste Magazine
+- [PasteMagazine](https://www.pastemagazine.com/noisetrade/music/) – Thousands of Albums. Completely Free. Completely Legal.
 
 - [Wistia’s Music Collection](https://wistia.com/resources/music) – Download some free background tracks to add energy and emotion to your videos.
 
@@ -362,17 +368,7 @@
 
 - [Mixkit – Royalty Free Videos and Illustrations](https://mixkit.co/) – Download high quality, royalty free video footage and art. New awesome creative assets being added daily that are completely free to use.
 
-- [Free Design Downloads : Fonts, Templates and Mockups](https://www.blugraphic.com/) – Download free PSD files, patterns, textures, templates, mock-ups, icons, ui kits, ui elements, buttons, banners and other psd freebies.
-
-- [Free Design Resources – Daily Freebies for Creatives](https://freedesignresources.net/) – Daily Freebies for Creatives.
-
-- [GraphicBurger](https://graphicburger.com/) – Tasty design resources made with care for each pixel. Free for both personal & commercial use. Have a bite!
-
-- [Neede Design Resources](https://neede.co/#/) – Neede is a curated collection of some of the best online design resources.
-
-- [Public Design Vault – Design tools for public good, all in one place.](https://publicdesignvault.com/)
-
-## Typography
+# Typography
 
 - [Butterick’s Practical Typography](https://practicaltypography.com/)
 
@@ -408,9 +404,9 @@
 
 - [Create LaTeX tables online](http://www.tablesgenerator.com/#) – Quickly create even complex LaTeX tables online with our generator -- cells merging is supported together with borders editing.
 
-- [Log in to Overleaf – Overleaf, Online LaTeX Editor](https://www.overleaf.com/login) – An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
+- [Overleaf, Online LaTeX Editor](https://www.overleaf.com/) – An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
 
-- [Pandoc Online | Unlimited Characters Free](https://foliovision.com/seo-tools/pandoc-online#) – This version of Pandoc online does not have a character limit. Enjoy Pandoc without the hassle of the command line!
+- [Pandoc Online](https://foliovision.com/seo-tools/pandoc-online#) – This version of Pandoc online does not have a character limit. Enjoy Pandoc without the hassle of the command line!
 
 ## Notebooks
 
@@ -418,7 +414,7 @@
 
 - [HackMD – Collaborative markdown notes](https://hackmd.io/) – Best way to write and share your knowledge in markdown.
 
-- [Sign in to GitBook – GitBook](https://app.gitbook.com/login)
+- [GitBook](https://app.gitbook.com/)
 
 ## OCR
 
@@ -442,7 +438,7 @@
 
 - [All About Circuits – Electrical Engineering & Electronics Community](https://www.allaboutcircuits.com/) – The fastest growing community of electrical engineers with 300+ new members every day seeking technical articles, advanced education, tools, and peer-to-peer discussions.
 
-- [Build List | OpenBuilds](https://openbuilds.com/)
+- [OpenBuilds](https://openbuilds.com/)
 
 - [Datasheets, Electronic Parts, Components, Search – Octopart](https://octopart.com/) – Octopart is a search engine for electronic and industrial parts. Find part data, check availability, and compare prices across hundreds of distributors and thousands of manufacturers.
 
@@ -484,15 +480,15 @@
 
 ## Storage
 
-- [Box | Login](https://account.box.com/)
+- [Box](https://account.box.com/)
 
-- [Login – Dropbox](https://www.dropbox.com/) – Login to Dropbox. Bring your photos, docs, and videos anywhere and keep your files safe.
+- [Dropbox](https://www.dropbox.com/) – Login to Dropbox. Bring your photos, docs, and videos anywhere and keep your files safe.
 
 - [The Best Unlimited Online Backup and Cloud Storage Services](https://www.backblaze.com/) – Backblaze is a pioneer in robust, scalable low cost cloud backup and storage services. Personal online backup to enterprise scale data storage solutions.
 
 - [Microsoft OneDrive – Access files anywhere. Create docs with free Office Online.](https://onedrive.live.com/) – Store photos and docs online. Access them from any PC, Mac or phone. Create and work together on Word, Excel or PowerPoint documents.
 
-- [Meet Google Drive – One place for all your files](https://drive.google.com/drive/my-drive) – Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.
+- [Google Drive – One place for all your files](https://drive.google.com/drive/my-drive) – Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.
 
 - [hubiC – OVH](https://hubic.com/) – Connectez-vous à votre compte hubiC depuis votre navigateur.
 
@@ -520,7 +516,7 @@
 
 - [Google Traductor](https://translate.google.com.uy/) – El servicio gratuito de Google traduce al instante palabras, frases y páginas web del español a más de cien idiomas.
 
-- [Preparing for the Writing Proficiency Exam (WPE) – Writing & Rhetoric Center – Cal Poly, San Luis Obispo](https://writingcenter.calpoly.edu/content/gwr/wpe/wpe_prep) – Writing is a learned skill that composition and other writing-intensive classes help you cultivate through sustained practice. Reviewing the writing skills you have learned throughout your time in high school and college can help you prepare to succeed on the WPE. There are also a number of resources to help you with WPE preparation.
+- [Preparing for the Writing Proficiency Exam (WPE)](https://writingcenter.calpoly.edu/content/gwr/wpe/wpe_prep) – Writing is a learned skill that composition and other writing-intensive classes help you cultivate through sustained practice. Reviewing the writing skills you have learned throughout your time in high school and college can help you prepare to succeed on the WPE. There are also a number of resources to help you with WPE preparation.
 
 ## Dictionaries
 
@@ -528,7 +524,7 @@
 
 - [ozdic – the English Collocations Dictionary online](https://ozdic.com/collocation-dictionary/)
 
-- [ConceptNet 5: program](http://www.conceptnet.io/c/en/program)
+- [ConceptNet](http://www.conceptnet.io/c/en/program)
 
 - [Dictionary by Merriam-Webster: America's most-trusted online dictionary](https://www.merriam-webster.com/) – The dictionary by Merriam-Webster is America's most trusted online dictionary for English word definitions, meanings, and pronunciation. #wordsmatter
 
@@ -576,11 +572,11 @@
 
 # Spanish
 
-- Diccionario panhispánico 
+- [Diccionario panhispánico](http://lema.rae.es/dpd/)
 
 # Learn
 
-- [| Stanford Lagunita](https://lagunita.stanford.edu/)
+- [Stanford Lagunita](https://lagunita.stanford.edu/)
 
 - [CourseBuffet – Find free online courses from 200+ top universities like Harvard, Stanford, MIT & platforms Coursera, edX, Udacity, etc](https://www.coursebuffet.com/) – Find free college equivalent online courses (MOOC) from top free course providers & universities. Find & compare courses from Coursera, Udacity, Futurelearn & other massive open online courses websites.
 
@@ -588,11 +584,11 @@
 
 - [GitHub – build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-bot) – 🤓 Build your own (insert technology here). Contribute to danistefanovic/build-your-own-x development by creating an account on GitHub.
 
-- [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](http://d2l.ai/)
+- [Dive into Deep Learning — Dive into Deep Learning](http://d2l.ai/)
 
-- [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](http://numpy.d2l.ai/)
+- [Dive into Deep Learning — Dive into Deep Learning numpy](http://numpy.d2l.ai/)
 
-- [Electronic library. Download books free. Finding books](https://b-ok.cc/) – Electronic library. Download books free. Finding books | B–OK. Download books for free. Find books.
+- [Electronic library. Download books free.](https://b-ok.cc/) – Electronic library. Download books free. Finding books | B–OK. Download books for free. Find books.
 
 - [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
 
@@ -600,7 +596,7 @@
 
 - [Free Computer Books : IT, Programming and Computer Science](https://www.onlineprogrammingbooks.com/) – Download Free Computer Books, Programming eBooks and Free IT eBooks. Read VB, C#, ASP.NET, Java, PHP, Python, Ruby, C++ Books Online.
 
-- [Free Data Ebooks – O'Reilly Media Search Open menu Close menu Search Twitter Facebook LinkedIn YouTube Newsletters](https://www.oreilly.com/data/free/) – The best data insights from O'Reilly editors, authors, and Strata speakers for you in one place, so you can dive deep into the latest of what's happening in data science and big data.
+- [Free Data Ebooks – O'Reilly Media](https://www.oreilly.com/data/free/) – The best data insights from O'Reilly editors, authors, and Strata speakers for you in one place, so you can dive deep into the latest of what's happening in data science and big data.
 
 - [Free Management eBooks – Online Library](http://www.free-management-ebooks.com/index.htm) – Free management eBooks, templates and checklists for your PC, Mac, laptop, tablet, Kindle, eBook reader or Smartphone.
 
@@ -624,7 +620,7 @@
 
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
 
-- [Stanford Engineering Everywhere | Home](https://see.stanford.edu/) – Stanford Engineering Everywhere (SEE) expands the Stanford experience to students and educators online and at no charge. A computer and an Internet connection are all you need. The SEE course portfolio includes one of Stanford's most popular sequences: the three-course Introduction to Computer Science, taken by the majority of Stanford’s undergraduates, as well as more advanced courses in artificial intelligence and electrical engineering.
+- [Stanford Engineering Everywhere](https://see.stanford.edu/) – Stanford Engineering Everywhere (SEE) expands the Stanford experience to students and educators online and at no charge. A computer and an Internet connection are all you need. The SEE course portfolio includes one of Stanford's most popular sequences: the three-course Introduction to Computer Science, taken by the majority of Stanford’s undergraduates, as well as more advanced courses in artificial intelligence and electrical engineering.
 
 - [The Neural Network Zoo – The Asimov Institute](http://www.asimovinstitute.org/neural-network-zoo/)
 
@@ -632,17 +628,17 @@
 
 # Legal
 
-- [Choose an open source license | Choose a License](https://choosealicense.com/) – Non-judgmental guidance on choosing a license for your open source project.
+- [Choose an open source license](https://choosealicense.com/) – Non-judgmental guidance on choosing a license for your open source project.
 
 - [Docracy – Free Legal Documents](https://www.docracy.com/) – Open legal documents, provided and trusted by people like you. Find or upload a document, sign it for free.
 
-- [TLDRLegal – Software Licenses Explained in Plain English](https://tldrlegal.com/) – Lookup open source licenses summarized & explained in plain English.
+- [TLDRLegal](https://tldrlegal.com/) – Lookup open source licenses summarized & explained in plain English.
 
 # Math education
 
 - [Desmos | Graphing Calculator](https://www.desmos.com/calculator) – A beautiful, free online graphing calculator from desmos.com
 
-- [GeoGebra | Free Math Apps – used by over 100 Million Students & Teachers Worldwide GeoGebra GeoGebra](https://www.geogebra.org/) – Get our free online math tools for graphing, geometry, 3D, and more!
+- [GeoGebra](https://www.geogebra.org/) – Get our free online math tools for graphing, geometry, 3D, and more!
 
 - [graph.tk](http://graph.tk/) – Online graph sketching app that can graph functions and numerically solve differential equations. Requires Javascript HTML 5.
 
@@ -660,9 +656,9 @@
 
 - [Invidious](https://invidio.us/) – An alternative front-end to YouTube.
 
-- [Login – ProtonMail](https://mail.protonmail.com/login) – Log in or create an account.
+- [ProtonMail](https://mail.protonmail.com/) – Log in or create an account.
 
-- [Mail. Done. Right. Tutanota Login & Sign up for an Ad-free Mailbox](https://mail.tutanota.com/login) – Mail. Done. Right. Make a fresh start in 2019 and get a free mail account that does not abuse your emails for advertising. Tutanota is fast, easy, secure and free of ads.
+- [Mail. Done. Right. Tutanota](https://mail.tutanota.com/) – Mail. Done. Right. Make a fresh start in 2019 and get a free mail account that does not abuse your emails for advertising. Tutanota is fast, easy, secure and free of ads.
 
 - [plic](https://plic.ml/) – Send one-time secret messages securely with plic.
 
@@ -720,6 +716,8 @@
 
 ## Code online
 
+- [Oracle Live SQL](https://livesql.oracle.com/apex/f)
+
 ### Basic compilers
 
 - [Home – glot.io](https://glot.io/)
@@ -732,13 +730,13 @@
 
 - [Online Compiler and Editor/IDE for Java, C, C++, PHP, Python, Ruby, Perl – Code and Run Online](https://www.jdoodle.com/) – is a free Online Compiler, Editor, IDE for Java, C, C++, PHP, Perl, Python, Ruby. Code Online – Online Runner – Share Save Java/C/C++/Perl/Python/Ruby online.
 
-- [Repl.it – The world's leading online coding platform](https://repl.it/) – Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, Python, Nodejs, Enzyme, Go, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil, Crystal, Julia, Elixir, Nim, Reason NodeJs, Erlang, TypeScript, Pygame, Love2D, Tkinter, Java Swing, Emacs Lisp (Elisp), PHP Web Server, SQLite, Java, PHP CLI, Pyxel.
+- [Repl.it – The world's leading online coding platform](https://repl.it/) – Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages.
 
 - [RunKit is Node prototyping](https://runkit.com/home) – RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every NPM module pre-installed.
 
 - [RunMyCode Online](https://runmycode.online/) – RunMyCode Online is a free and open-source tool to compile and run code online, directly from GitHub, GitLab, BitBucket, and more.
 
-- [Superfast Online Java Compiler, Editer and IDE – Codiva.io – Compile and Run Java Online](https://www.codiva.io/) – Compile and run C, C++, Java programs online with Codiva.io. Used by CS teachers in the US, India, Philippines, ... Compiles as you type with auto complete suggestions. It is fast, even on 2G mobile. Try now!
+- [Superfast Online Java Compiler, Editer and IDE – Codiva.io – Compile and Run Java Online](https://www.codiva.io/) – Compile and run C, C++, Java programs online with Codiva.io. Compiles as you type with auto complete suggestions. It is fast, even on 2G mobile.
 
 - [Try It Online](https://tio.run/#)
 
@@ -782,10 +780,6 @@
 
 - [GDB online Debugger | Compiler – Code, Compile, Run, Debug online C, C++](https://www.onlinegdb.com/) – Online GDB is online compiler and debugger for C/C++. You can compile, run and debug code with GDB online. Using gcc/g++ as compiler and gdb as debugger. Currently C and C++ languages are supported.
 
-
-
-- [Oracle Live SQL](https://livesql.oracle.com/apex/f)
-
 ## Documentation search
 
 - [ArchWiki](https://wiki.archlinux.org/index.php)
@@ -796,13 +790,13 @@
 
 - [Devhints — TL;DR for developer documentation](https://devhints.io/) – A ridiculous collection of web development cheatsheets.
 
-- [One-page guide to explainshell.com – match command-line arguments to their help text](https://explainshell.com/) – match command-line arguments to their help text.
+- [One-page guide to explainshell.com](https://explainshell.com/) – match command-line arguments to their help text.
 
 - [Find the best online programming courses and Tutorials – Hackr.io](https://hackr.io/) – Google search shows you hundreds of programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.
 
 - [Custom Search Engine](https://cse.google.com/cse)
 
-- [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/) – OverAPI.com is a site collecting all the cheatsheets, all!
+- [OverAPI.com](http://overapi.com/) – OverAPI.com is a site collecting all the cheatsheets, all!
 
 - [Recipes « ActiveState Code](https://code.activestate.com/recipes/)
 
@@ -832,7 +826,7 @@
 
 - [RegExr: Learn, Build, &amp; Test RegEx](https://regexr.com/)
 
-- Regulex：JavaScript Regular Expression Visualizer.
+- [Regulex：JavaScript Regular Expression Visualizer.](https://jex.im/regulex/)
 
 - [txt2re: headache relief for programmers :: regular expression generator](http://www.txt2re.com/index-python.php3) – Regular Expression Generator for languages Perl PHP Python Java Javascript ColdFusion C C++ Ruby VB VBScript JSharp CSharp C++ dotnet VB
 
@@ -850,13 +844,13 @@
 
 - [Postman | API Development Environment](https://www.getpostman.com/) – Postman is the only complete API development environment used by more than 7 million developers and 300,000 companies worldwide.
 
-- [ProgrammableWeb – APIs, Mashups and the Web as Platform API Growth Charts, Industry Research & More Developer How-to's & Live Presentations](https://www.programmableweb.com/) – The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web’s most relied-on API Directory.
+- [ProgrammableWeb – APIs, Mashups and the Web as Platform](https://www.programmableweb.com/) – The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web’s most relied-on API Directory.
 
 - [Responsinator](http://www.responsinator.com/) – The Responsinator is designed to test responsive websites on different device resolutions.
 
 - [Responsive Image Breakpoints Generator by Cloudinary](https://responsivebreakpoints.com/) – Efficiently analyze each hi-res image and find the best dimensions for embedding as responsive images in your site.
 
-- [REST test...](https://resttesttest.com/)
+- [REST test](https://resttesttest.com/)
 
 - [TestMace — API testing tool Slack Telegram](https://client.testmace.com/) – Your IDE to work with API. Work with API following the best software development practices.
 
@@ -900,7 +894,7 @@
 
 - [Heroku](https://dashboard.heroku.com/apps)
 
-- [Sign in | BigML.com](https://bigml.com/dashboard/sources) – BigML.com is a consumable, programmable, and scalable Machine Learning platform that makes it easy to solve and automate Classification, Regression, Time Series Forecasting, Cluster Analysis, Anomaly Detection, Association Discovery, Topic Modeling, and Principal Component Analysis tasks. BigML is helping thousands of analysts, software developers, and scientists around the world seamlessly transform their data into actionable models that are used to make predictions through remote services or locally, by exporting and embedding models into applications.
+- [BigML.com](https://bigml.com/dashboard/sources) – BigML.com is a consumable, programmable, and scalable Machine Learning platform that makes it easy to solve and automate Classification, Regression, Time Series Forecasting, Cluster Analysis, Anomaly Detection, Association Discovery, Topic Modeling, and Principal Component Analysis tasks. BigML is helping thousands of analysts, software developers, and scientists around the world seamlessly transform their data into actionable models that are used to make predictions through remote services or locally, by exporting and embedding models into applications.
 
 - [Travis CI – Test and Deploy with Confidence](https://travis-ci.com/account/repositories)
 
@@ -910,15 +904,13 @@
 
 - [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/) – Collection of data visualizations to get inspired and finding the right type.
 
-- [Home | RAWGraphs](https://rawgraphs.io/) – The missing link between spreadsheets and data visualization.
+- [RAWGraphs](https://rawgraphs.io/) – The missing link between spreadsheets and data visualization.
 
 - [Webgraphviz](http://www.webgraphviz.com/)
 
 - [Windy: Wind map & weather forecast](https://www.windy.com/) – Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else. Worldwide animated weather map, with easy to use layers and precise spot forecast. METAR, TAF and NOTAMs for any airport in the World. SYNOP codes from weather stations and buoys. Forecast models ECMWF, GFS, NAM and NEMS.
 
 - [yEd Live](https://www.yworks.com/yed-live/) – yEd Live is a free diagram editor web application that runs in the browser and lets you quickly create, import, edit, and automatically arrange diagrams.
-
-- [GitHub – aviaryan/awesome-no-login-web-apps: 🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps) – 🚀 Awesome (free) web apps that work without login. Contribute to aviaryan/awesome-no-login-web-apps development by creating an account on GitHub.
 
 # Others
 
@@ -933,3 +925,5 @@
 - [Watch Series – Full Episodes](https://newepisodes.co/) – High quality streaming links to the most popular TV shows minutes after they air!
 
 - [DownSub.com | Download and save subtitles](https://downsub.com/) – DownSub is a free web application that can download and save subtitles directly from Youtube, Drive, DramaFever, Viki, OnDemandKorea, Vlive and more.
+
+- [GitHub – aviaryan/awesome-no-login-web-apps: 🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps) – 🚀 Awesome (free) web apps that work without login. Contribute to aviaryan/awesome-no-login-web-apps development by creating an account on GitHub.
