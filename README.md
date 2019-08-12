@@ -920,7 +920,7 @@
 
 - [Extract Title Tag and Meta Description from URLs – Free SEO Tool](http://tools.buzzstream.com/meta-tag-extractor) – Enter a list of URLs and this tool will return the title tag, keywords and description for them.
 
-- [SlimWiki — Sign in](https://slimwiki.com/) – Beautiful Wikis for Teams. Get started today, free forever!
+- [SlimWiki](https://slimwiki.com/) – Beautiful Wikis for Teams. Get started today, free forever!
 
 - [Watch Series – Full Episodes](https://newepisodes.co/) – High quality streaming links to the most popular TV shows minutes after they air!
 
