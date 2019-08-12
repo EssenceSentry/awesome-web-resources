@@ -890,7 +890,7 @@
 
 - [Namecheap Education Program: Free Domains for Students](https://nc.me/) – The Namecheap Education Program offers a free domain and website to university students worldwide.
 
-- [Sign in | Algolia](https://www.algolia.com/) – Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.
+- [Algolia](https://www.algolia.com/) – Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.
 
 - [Heroku](https://dashboard.heroku.com/apps)
 
