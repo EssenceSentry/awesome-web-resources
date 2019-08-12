@@ -38,7 +38,7 @@
 	- [Spanish](#spanish)
 - [Learn](#learn)
 - [Legal](#legal)
-- [Math education](#math-education)
+- [Math teaching](#math-teaching)
 - [Privacy](#privacy)
 - [Productivity](#productivity)
 - [Programming](#programming)
@@ -634,7 +634,7 @@
 
 - [TLDRLegal](https://tldrlegal.com/) – Lookup open source licenses summarized & explained in plain English.
 
-# Math education
+# Math teaching
 
 - [Desmos | Graphing Calculator](https://www.desmos.com/calculator) – A beautiful, free online graphing calculator from desmos.com
 
