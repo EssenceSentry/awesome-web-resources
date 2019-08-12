@@ -35,7 +35,7 @@
 - [Languages](#languages)
 	- [Dictionaries](#dictionaries)
 	- [Proofreading and Checking](#proofreading-and-checking)
-- [Spanish](#spanish)
+	- [Spanish](#spanish)
 - [Learn](#learn)
 - [Legal](#legal)
 - [Math education](#math-education)
