@@ -400,6 +400,8 @@
 
 # Documents
 
+- [Coda. A doc as powerful as an app.](https://coda.io/welcome) – Coda is a new doc that grows with your ideas. We built it so the next generation of makers can build docs as powerful as apps. What will you Coda?
+
 ## Latex
 
 - [Create LaTeX tables online](http://www.tablesgenerator.com/#) – Quickly create even complex LaTeX tables online with our generator -- cells merging is supported together with borders editing.
@@ -431,8 +433,6 @@
 - [PDF Merger – Easy PDF Files Merging](https://pdfmerge.smartsfile.com/) – Pdf merger allows you to merge pdf files fast and easy, everything is online, free and with no registration, try it now >>
 
 - [Pdf.to](https://pdf.to/) – Pdf.to is a Portable Document Format (PDF) Converter software to convert your file or image to and from PDF's. Convert PDF to Word, Excel, JPG, PPT, DOC, PNG and more with Pdf.to! Compress too. No registration or installation needed.
-
-- [Coda. A doc as powerful as an app.](https://coda.io/welcome) – Coda is a new doc that grows with your ideas. We built it so the next generation of makers can build docs as powerful as apps. What will you Coda?
 
 # Electronics and Mechanics
 
@@ -502,7 +502,7 @@
 
 - [Independent Analysis on Supplements & Nutrition | Examine.com](https://examine.com/) – Examine.com simplifies nutrition and supplementation to help you answer your questions on how to be healthier.
 
-- [Los Alimentos](https://alimentos.org.es/) – Descubre los alimentos y sus propiedades nutricionales para mejorar tu dieta. Alimentos ricos en hierro, proteínas, calcio, fibra y vitaminas.
+- [Los Alimentos](https://alimentos.org.es/) – Descubre los alimentos y sus propiedades nutricionales para mejorar tu dieta. Alimentos ricos en hierro, proteínas, calcio, fibra y vitaminas. The only source I know with the amino acid content of different foods.
 
 - [Take a personality test – Open Source Psychometrics Project](https://openpsychometrics.org/)
 
