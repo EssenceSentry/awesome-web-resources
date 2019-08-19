@@ -86,6 +86,8 @@
 
 - [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) – Stanford Question Answering Dataset (SQuAD) is a new reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage. With 100,000+ question-answer pairs on 500+ articles, SQuAD is significantly larger than previous reading comprehension datasets.
 
+- [LVIS: A dataset for large vocabulary instance segmentation.](https://www.lvisdataset.org/) – A new dataset for long tail object recognition.
+
 ## Encyclopedias
 
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
@@ -235,6 +237,8 @@
 - [Web Resizer – Making Photos Faster – Optimize pictures for websites and email](http://webresizer.com/resizer/)
 
 - [xLayers: Design – Code – Repeat](https://xlayers.dev/#/home) – xLayers – Preview and Convert UI designs into ANY code, for ANY platform.
+
+- [squoosh](https://squoosh.app/editor) – Great image size optimization browser app.
 
 # Stock
 
@@ -912,9 +916,15 @@
 
 - [yEd Live](https://www.yworks.com/yed-live/) – yEd Live is a free diagram editor web application that runs in the browser and lets you quickly create, import, edit, and automatically arrange diagrams.
 
-# Others
+# Find software
 
 - [AlternativeTo – Crowdsourced software recommendations](https://alternativeto.net/software/) – AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more by recommending alternatives to apps you already know.
+
+- [snapcraft](https://snapcraft.io/store) – Search thousands of snaps used by millions of people across 41 Linux distributions.
+
+- [flathub](https://flathub.org/home) – The home of hundreds of apps which can be easily installed on any Linux distribution.
+
+# Others
 
 - [Awesome Search](https://awesomelists.top/) – A website which makes you access the awesome curated lists more quickly.
 
