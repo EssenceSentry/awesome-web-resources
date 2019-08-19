@@ -86,7 +86,7 @@
 
 - [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) – Stanford Question Answering Dataset (SQuAD) is a new reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage. With 100,000+ question-answer pairs on 500+ articles, SQuAD is significantly larger than previous reading comprehension datasets.
 
-- [LVIS: A dataset for large vocabulary instance segmentation.](https://www.lvisdataset.org/) – A new dataset for long tail object recognition.
+- [LVIS: A dataset for large vocabulary instance segmentation](https://www.lvisdataset.org/) – A new dataset for long tail object recognition.
 
 ## Encyclopedias
 
