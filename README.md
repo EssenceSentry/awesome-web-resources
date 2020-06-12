@@ -114,6 +114,8 @@
 
 - [Sci-Hub](https://sci-hub.tw/) – The world's first pirate science resource, which opened up massive access to tens of millions of scientific articles.
 
+- [Classpert](https://classpert.com/) - Find and compare online courses from multiple e-learning platforms
+
 # Archiving
 
 - [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/) – Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 373 billion archived web pages.
