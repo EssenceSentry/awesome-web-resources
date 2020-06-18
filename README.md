@@ -56,6 +56,9 @@
 - [Speech to text](#speech-to-text)
 - [Student resources](#student-resources)
 - [Visualizations](#visualizations)
+- [Financial](#financial)
+- [TV Series](#tv-series)
+- [Security](#security)
 - [Others](#others)
 
 # Academic
