@@ -924,16 +924,128 @@
 
 - [flathub](https://flathub.org/home) – The home of hundreds of apps which can be easily installed on any Linux distribution.
 
-# Others
+# Financial
+    
+- [Aliexpress price history, comparision, seller check, search by image](https://www.alisuperstar.com/)
+- [FAQ - Pricearchive.org](https://www.pricearchive.org/faq#q0)
+- [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 
-- [Awesome Search](https://awesomelists.top/) – A website which makes you access the awesome curated lists more quickly.
-
-- [Extract Title Tag and Meta Description from URLs – Free SEO Tool](http://tools.buzzstream.com/meta-tag-extractor) – Enter a list of URLs and this tool will return the title tag, keywords and description for them.
-
-- [SlimWiki](https://slimwiki.com/) – Beautiful Wikis for Teams. Get started today, free forever!
-
+# TV Series
+  
+- [Watch Latest Movies and TV Shows For Free on lookmovie.ag](https://lookmovie.ag/)
+- [MoviesJoy - Free movies streaming, watch movies online](https://www1.moviesjoy.net/)
+- [Cartoon HD - Download APK | Watch Movies & TV Shows](https://cartoonhd.app/)
 - [Watch Series – Full Episodes](https://newepisodes.co/) – High quality streaming links to the most popular TV shows minutes after they air!
 
-- [DownSub.com | Download and save subtitles](https://downsub.com/) – DownSub is a free web application that can download and save subtitles directly from Youtube, Drive, DramaFever, Viki, OnDemandKorea, Vlive and more.
+# Security
+
+- [Rainbow Crackalack: Make Rainbow Tables Great Again](https://www.rainbowcrackalack.com/)
+- [List of Rainbow Tables](https://project-rainbowcrack.com/table.htm)
+
+# Others
 
 - [GitHub – aviaryan/awesome-no-login-web-apps: 🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps) – 🚀 Awesome (free) web apps that work without login. Contribute to aviaryan/awesome-no-login-web-apps development by creating an account on GitHub.
+- [KnowFlow](https://www.knowflow.io/profile/boards)
+- [BioLinky - Enhance your online presence.](https://biolinky.co/)
+- [EasyDB](https://easydb.io/)
+- [Send free anonymous email online](https://sendmail.altmails.com/)
+- [Diez — The Design Language Framework](https://diez.org/)
+- [Simple Scraper — Scrape Website and Table Data in Seconds](https://simplescraper.io/)
+- [Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://thepiratebay.org/)
+- [Web Scraping, Data Extraction and Automation · Apify](https://apify.com/)
+- [Diggernaut - Turn website content into datasets](https://www.diggernaut.com/)
+- [microlink.io: Browser as API](https://microlink.io/)
+- [Best Free OCR API, Online OCR, Searchable PDF - Fresh 2019 OCR Software](https://ocr.space/)
+- [World Leading Web Scraping Services & Developer Tools - Scrapinghub](https://scrapinghub.com/)
+- [Proxy API for Web Scraping | ScraperAPI](https://www.scraperapi.com/)
+- [WrapAPI: APIs for the whole web](https://wrapapi.com/)
+- [Meeting agenda and meeting minutes software | Tadum](https://tadum.app/)
+- [What do you want to schedule? - cally.com](https://cally.com/)
+- [Codota - AI completions for your Java IDE](https://www.codota.com/)
+- [Sourcegraph - Code search and intelligence](https://about.sourcegraph.com/)
+- [Low-code Application Development Platform - Build Apps Fast & Efficiently | Mendix](https://www.mendix.com/)
+- [The #1 Low-Code Platform for Digital Transformation | OutSystems](https://www.outsystems.com/)
+- [Cloudflare Workers®](https://workers.cloudflare.com/)
+- [Faster load times and improved SEO through image optimization - Piio](https://piio.co/)
+- [Modern Analytic Apps for the Enterprise - Plotly](https://plot.ly/)
+- [MindMup](https://www.mindmup.com/)
+- [Welcome to Gravit Designer PRO](https://designer.gravit.io/)
+- [Lightweight Financial Charting Library — TradingView](https://www.tradingview.com/lightweight-charts/)
+- [App - CSS Icons](https://css.gg/app)
+- [Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials](http://freecomputerbooks.com/)
+- [Calculist](https://app.calculist.io/)
+- [Outline - Team wiki & knowledge base](https://www.getoutline.com/)
+- [DueFocus - More than a Time Tracker](https://duefocus.com/)
+- [Automatic Statistician](https://automaticstatistician.com/research/)
+- [Diagram.Codes](https://www.diagram.codes/)
+- [Home | ISBNdb](https://www.isbndb.com/)
+- [REST API - Crossref](https://www.crossref.org/services/metadata-delivery/rest-api/)
+- [Pic.Hance - Instantly Enhance Your Photos](https://pichance.com/)
+- [Scrapio - Webscraping from the comfort of your browser](https://www.getscrapio.com/)
+- [Robotic Tape](https://robotictape.com/)
+- [Dataset Search](https://datasetsearch.research.google.com/)
+- [Vis.gl - Uber Vis Team](https://vis.gl/)
+- [Graspable Math](https://graspablemath.com/)
+- [KickassTorrents - Download torrents from Kickass Torrents](https://kickasstorrents.to/)
+- [EZTV - TV Torrents Online Series Download | Official](https://eztv.io/)
+- [Torlock - Recent Movies Torrents](https://www.torlock.com/movies/1/size/desc.html)
+- [A Neural Network Playground](https://playground.tensorflow.org/)
+- [iLoveIMG | The fastest free web app for easy image modification.](https://www.iloveimg.com/)
+- [HDRI Haven](https://hdrihaven.com/)
+- [Textures for 3D, graphic design and Photoshop!](https://www.textures.com/)
+- [domlysz/BlenderGIS: Blender addons to make the bridge between Blender and geographic data](https://github.com/domlysz/BlenderGIS)
+- [Download FaceBuilder for Blender](https://keentools.io/download/facebuilder-for-blender)
+- [Get D-NOISE: AI Denoiser for Blender » Remington Creative](https://remington.pro/software/blender/d-noise/)
+- [Online image vectorizer](https://www.autotracer.org/)
+- [Create LaTeX tables online](https://www.tablesgenerator.com/)
+- [Buy Bitcoin with Credit Card or Debit Card Instantly | PayBis](https://paybis.com/)
+- [Free Online Resume Builder - FlowCV](https://flowcv.io/)
+- [Drawbrary - Best free illustrations for your website or app](https://www.drawbrary.com/)
+- [Online Excel Formula Beautifier](http://excelformulabeautifier.com/)
+- [CalcMe | WIRIS](https://calcme.com/a)
+- [Minzel - Creative Mindmapping](https://minzel.io/)
+- [Simplenote](https://simplenote.com/)
+- [Editsaurus by Tyler Walters](https://editsaurus.tylerwalters.com/)
+- [The Open Source Writing Aide](https://grammark.org/dist/#/)
+- [Expresso](https://www.expresso-app.org/)
+- [Free, Powerful English Grammar Checker | SCRIBENS](https://www.scribens.com/)
+- [Slick Write | Check your grammar. Proofread online.](https://www.slickwrite.com/#!home)
+- [Grammar Check - Free Essay Checker | Virtual Writing Tutor](https://virtualwritingtutor.com/)
+- [ZetaProse - free online novel editing tool](https://www.zetaprose.com/)
+- [SkELL: corpus examples for learning English](https://skell.sketchengine.co.uk/run.cgi/skell)
+- [Wireflow - Free Wire / User Flow Tool](http://wireflow.co/)
+- [Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers](https://www.exploit-db.com/)
+- [Bookmarklet generator](https://medialab.github.io/artoo/generator/)
+- [iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/#)
+- [Takeafile - send any file at max speed for free](https://takeafile.com/)
+- [Bashupload.com / upload files from command line](https://bashupload.com/)
+- [Archive Extractor Online](https://extract.me/)
+- [Funzip - The quickest way to open .zip and .rar files online!](https://funzip.net/)
+- [Just Delete Me | A directory of direct links to delete your account from web services.](https://backgroundchecks.org/justdeleteme/)
+- [Unsubscribe from emails, instantly - Unroll.Me](https://unroll.me/)
+- [Ivy League Online Courses | Class Central](https://www.classcentral.com/collection/ivy-league-moocs)
+- [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
+- [Download free illustrations to power up your projects | Stories](https://stories.freepik.com/)
+- [OSINT Framework](https://osintframework.com/)
+- [Webrecorder | Homepage](https://webrecorder.io/)
+- [PDF Playground - PDFFiddler](https://playground.pdffiddler.com/?apps=true)
+- [Chemical Checker](https://chemicalchecker.org/)
+- [PWA Store](https://progressiveapp.store/pwa/Hacker-News)
+- [Poly](https://poly.google.com/)
+- [Run your application from any public Git-repo with one click - Runme.io](https://runme.io/)
+- [DeepPavlov: an open source conversational AI framework](https://deeppavlov.ai/)
+- [Paperscape](http://paperscape.org/)
+- [Top arXiv papers](https://scirate.com/)
+- [NameRobot - Naming Tool collection for creators](https://tools.namerobot.com/)
+- [AI21 Labs | AI for the 21st Century](https://www.ai21.com/)
+- [Postwoman • A free, fast and beautiful API request builder](https://postwoman.io/)
+- [GitHub Student Developer Pack - GitHub Education](https://education.github.com/pack)
+- [Scrapinghub](https://app.scrapinghub.com)
+- [DocSearch: Search made for documentation](https://docsearch.algolia.com/)
+- [https://www.caeexamtips.com](https://www.caeexamtips.com/)
+- [Activities for Learners | Learning English | Cambridge English](https://www.cambridgeenglish.org/learning-english/activities-for-learners/?level=proficient&rows=12)
+- [Awesome Search](https://awesomelists.top/) – A website which makes you access the awesome curated lists more quickly.
+- [Extract Title Tag and Meta Description from URLs – Free SEO Tool](http://tools.buzzstream.com/meta-tag-extractor) – Enter a list of URLs and this tool will return the title tag, keywords and description for them.
+- [SlimWiki](https://slimwiki.com/) – Beautiful Wikis for Teams. Get started today, free forever!
+- [DownSub.com | Download and save subtitles](https://downsub.com/) – DownSub is a free web application that can download and save subtitles directly from Youtube, Drive, DramaFever, Viki, OnDemandKorea, Vlive and more.
+
