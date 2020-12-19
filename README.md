@@ -1,9 +1,11 @@
-# Contents
+# Awesome web resources
+
+## Contents
 
 - [Academic](#academic)
-	- [Data](#data)
-	- [Encyclopedias](#encyclopedias)
-	- [Search](#search)
+  - [Data](#data)
+  - [Encyclopedias](#encyclopedias)
+  - [Search](#search)
 - [Archiving](#archiving)
 - [Avoid spam](#avoid-spam)
 - [Bins and Pads](#bins-and-pads)
@@ -13,46 +15,46 @@
 - [Colors](#colors)
 - [Edition](#edition)
 - [Stock](#stock)
-	- [3D](#3d)
-	- [Illustrations](#illustrations)
-	- [Photos](#photos)
-	- [Search](#search)
-	- [Sound](#sound)
-	- [Vectors and Icons](#vectors-and-icons)
-	- [Video](#video)
+  - [3D](#3d)
+  - [Illustrations](#illustrations)
+  - [Photos](#photos)
+  - [Search](#search)
+  - [Sound](#sound)
+  - [Vectors and Icons](#vectors-and-icons)
+  - [Video](#video)
 - [Typography](#typography)
 - [Documents](#documents)
-	- [Latex](#latex)
-	- [Notebooks](#notebooks)
-	- [OCR](#ocr)
-	- [PDFs and Converters](#pdfs-and-converters)
+  - [Latex](#latex)
+  - [Notebooks](#notebooks)
+  - [OCR](#ocr)
+  - [PDFs and Converters](#pdfs-and-converters)
 - [Electronics and Mechanics](#electronics-and-mechanics)
 - [Entrepreneurs](#entrepreneurs)
 - [Files and Sharing](#files-and-sharing)
-	- [Sharing](#sharing)
-	- [Storage](#storage)
+  - [Sharing](#sharing)
+  - [Storage](#storage)
 - [Health](#health)
 - [Languages](#languages)
-	- [Dictionaries](#dictionaries)
-	- [Proofreading and Checking](#proofreading-and-checking)
-	- [Spanish](#spanish)
+  - [Dictionaries](#dictionaries)
+  - [Proofreading and Checking](#proofreading-and-checking)
+  - [Spanish](#spanish)
 - [Learn](#learn)
 - [Legal](#legal)
 - [Math teaching](#math-teaching)
 - [Privacy](#privacy)
 - [Productivity](#productivity)
 - [Programming](#programming)
-	- [Academic](#academic)
-	- [Chatbots](#chatbots)
-	- [Code online](#code-online)
-		- [Basic compilers](#basic-compilers)
-		- [Full IDE](#full-ide)
-		- [Jupyter notebooks](#jupyter-notebooks)
-	- [Web prototyping](#web-prototyping)
-	- [Documentation search](#documentation-search)
-	- [Hosts and CDNs](#hosts-and-cdns)
-	- [Regex](#regex)
-	- [Web development](#web-development)
+  - [Academic](#academic)
+  - [Chatbots](#chatbots)
+  - [Code online](#code-online)
+    - [Basic compilers](#basic-compilers)
+    - [Full IDE](#full-ide)
+    - [Jupyter notebooks](#jupyter-notebooks)
+  - [Web prototyping](#web-prototyping)
+  - [Documentation search](#documentation-search)
+  - [Hosts and CDNs](#hosts-and-cdns)
+  - [Regex](#regex)
+  - [Web development](#web-development)
 - [Speech to text](#speech-to-text)
 - [Student resources](#student-resources)
 - [Visualizations](#visualizations)
@@ -61,9 +63,9 @@
 - [Security](#security)
 - [Others](#others)
 
-# Academic
+## Academic
 
-## Data
+### Data
 
 - [Academic Torrents](http://academictorrents.com/) – Distributed system for sharing enormous datasets – for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
 
@@ -91,7 +93,7 @@
 
 - [LVIS: A dataset for large vocabulary instance segmentation](https://www.lvisdataset.org/) – A new dataset for long tail object recognition.
 
-## Encyclopedias
+### Encyclopedias
 
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
 
@@ -99,7 +101,7 @@
 
 - [Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](http://mathworld.wolfram.com/)
 
-## Search
+### Academic search
 
 - [Crossref Metadata Search](https://search.crossref.org/)
 
@@ -117,13 +119,13 @@
 
 - [Sci-Hub](https://sci-hub.tw/) – The world's first pirate science resource, which opened up massive access to tens of millions of scientific articles.
 
-# Archiving
+## Archiving
 
 - [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/) – Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 373 billion archived web pages.
 
 - [Perma.cc](https://perma.cc/) – Broken links are everywhere. Perma helps authors and journals create permanent links for citations in their published work.
 
-# Avoid spam
+## Avoid spam
 
 - [A gallery of Tumblr – The Tumblr viewer – Tumbex](https://www.tumbex.com/) – Tumbex is your access to all the tumblog, with a streamlined design and optimized navigation. View any Photo / Video / Audio / Quote / Link / Chat / Text of Tumblr.
 
@@ -141,7 +143,7 @@
 
 - [TempMailAddress | Disposable Temp Mail](https://www.tempmailaddress.com/) – The temp mail address to keep your original email safe. The disposable temporary email platform provides fleeting email addresses.
 
-# Bins and Pads
+## Bins and Pads
 
 - [Ghostbin](https://ghostbin.com/)
 
@@ -157,13 +159,13 @@
 
 - [µPad](https://web.getmicropad.com/#!)
 
-# Calculators and Tables
+## Calculators and Tables
 
 - [Browse formulas – fx​Solver](https://www.fxsolver.com/browse/)
 
 - [Online Calculators & Tools – RapidTables.com](https://www.rapidtables.com/) – Online reference and tools – calculators, converters, math, electricity, web design.
 
-# Communication
+## Communication
 
 - [Adjourn](https://www.adjourn.io/)
 
@@ -177,9 +179,9 @@
 
 - [room.sh | Online meeting rooms with powerful collaboration tools](https://room.sh/)
 
-# Design
+## Design
 
-# Colors
+### Colors
 
 - [Color Deck – A color palette collector](https://color.obscuredetour.com/)
 
@@ -191,7 +193,7 @@
 
 - [Viz Palette](https://projects.susielu.com/viz-palette)
 
-# Edition
+### Edition
 
 - [2D – Animation Tools for Apps, Games, and Web](https://www.2dimensions.com/) – Bring your apps and games to life with real-time animation. Flare is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to Flutter, iOS, Android, Unity, OpenGL, C++, C#, OpenTK, HTML, JS, and other apps and games.
 
@@ -243,7 +245,7 @@
 
 - [squoosh](https://squoosh.app/editor) – Great image size optimization browser app.
 
-# Stock
+### Stock
 
 - [Free Design Downloads : Fonts, Templates and Mockups](https://www.blugraphic.com/) – Download free PSD files, patterns, textures, templates, mock-ups, icons, ui kits, ui elements, buttons, banners and other psd freebies.
 
@@ -255,7 +257,7 @@
 
 - [Public Design Vault – Design tools for public good, all in one place.](https://publicdesignvault.com/)
 
-## 3D
+#### 3D
 
 - [3D ContentCentral – Free 3D CAD Models, 2D Drawings, and Supplier Catalogs](https://www.3dcontentcentral.com/) – Dassault Systèmes 3D ContentCentral is a free library of thousands of high quality 3D CAD models from hundreds of suppliers. Millions of users download 3D and 2D CAD files everyday.
 
@@ -279,7 +281,7 @@
 
 - [3D CAD Model Collection | GrabCAD Community Library](https://grabcad.com/library) – Looking for downloadable 3D printing models, designs, and CAD files? Join the GrabCAD Community to get access to 2.5 million free CAD files from the largest collection of professional designers, engineers, manufacturers, and students on the planet.
 
-## Illustrations
+#### Illustrations
 
 - [Cool Backgrounds](https://coolbackgrounds.io/) – Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites, or as desktop and phone wallpapers.
 
@@ -295,7 +297,7 @@
 
 - [Textures: All | Texture Haven](https://texturehaven.com/textures/) – 100% Free High Quality Textures for Everyone.
 
-## Photos
+#### Photos
 
 - [Pixabay](https://pixabay.com/) – 1 million+ Stunning Free Images to Use Anywhere. Find your perfect free image or video to download and use for anything. ✓ Free for commercial use ✓ No attribution required ✓ High quality images.
 
@@ -311,7 +313,7 @@
 
 - [Lorem Picsum](https://picsum.photos/) – Lorem Ipsum... but for photos.
 
-## Search
+#### Search stock
 
 - [Free Stock Images & Videos](https://allthefreestock.com/#) – AllTheFreeStock.com
 
@@ -321,7 +323,7 @@
 
 - [The Stocks 2 – Best royalty free stock photos, videos, mockups, icons and fonts](http://thestocks.im/)
 
-## Sound
+#### Sound
 
 - [Free Royalty Free Music — Fugue](https://icons8.com/music) – Download free background music for your videos, movies, and websites. Free both for personal and commercial projects.
 
@@ -331,7 +333,7 @@
 
 - [Wistia’s Music Collection](https://wistia.com/resources/music) – Download some free background tracks to add energy and emotion to your videos.
 
-## Vectors and Icons
+#### Vectors and Icons
 
 - [🔥 Streamline Emoji – 850 + Free Vector Emoji](http://emoji.streamlineicons.com/)
 
@@ -365,7 +367,7 @@
 
 - [Worldvectorlogo — Brand logos free to download](https://worldvectorlogo.com/) – Worldvectorlogo has the largest SVG logo vector collection. All logos work with EPS, AI, PSD and Adobe PDF. No account and unlimited downloads for free.
 
-## Video
+#### Video
 
 - [Beautiful, Free Stock Video Footage For Your Homepage](https://coverr.co/) – Download royalty free (for personal and commercial use), unique and beautiful video footage for your website or any project. No attribution required.
 
@@ -375,7 +377,7 @@
 
 - [Mixkit – Royalty Free Videos and Illustrations](https://mixkit.co/) – Download high quality, royalty free video footage and art. New awesome creative assets being added daily that are completely free to use.
 
-# Typography
+### Typography
 
 - [Butterick’s Practical Typography](https://practicaltypography.com/)
 
@@ -393,7 +395,7 @@
 
 - [Tiff – a visual typeface diff tool.](https://tiff.herokuapp.com/)
 
-- [Tips for balancing web fonts &amp; page load – Frontend News # 1](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
+- [Tips for balancing web fonts &amp; page load – Frontend News ## 1](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
 - [Type Connection](http://www.typeconnection.com/) – A typographic dating game that helps you learn how to pair typefaces.
 
@@ -405,11 +407,11 @@
 
 - [UI Goodies: All the best resources for designers in one place.](https://www.uigoodies.com/)
 
-# Documents
+## Documents
 
 - [Coda. A doc as powerful as an app.](https://coda.io/welcome) – Coda is a new doc that grows with your ideas. We built it so the next generation of makers can build docs as powerful as apps. What will you Coda?
 
-## Latex
+### Latex
 
 - [Create LaTeX tables online](http://www.tablesgenerator.com/#) – Quickly create even complex LaTeX tables online with our generator -- cells merging is supported together with borders editing.
 
@@ -417,7 +419,7 @@
 
 - [Pandoc Online](https://foliovision.com/seo-tools/pandoc-online#) – This version of Pandoc online does not have a character limit. Enjoy Pandoc without the hassle of the command line!
 
-## Notebooks
+### Notebooks
 
 - [A Simple Notebook for Developers | Dnote](https://dnote.io/) – Dnote is a minimalist note-taking software designed to keep you focused by providing quick ways of capturing new information. It is open source and end-to-end encrypted.
 
@@ -425,13 +427,13 @@
 
 - [GitBook](https://app.gitbook.com/)
 
-## OCR
+### OCR
 
 - [Free Online OCR – Convert JPEG, PNG, GIF, BMP, TIFF, PDF, DjVu to Text](https://www.newocr.com/) – Free online OCR service that allows to convert scanned images, faxes, screenshots, PDF documents and ebooks to text, can process 122 languages and supports layout analysis.
 
 - [i2OCR – Free Online OCR](http://www.i2ocr.com/) – i2OCR is a free online Optical Character Recognition (OCR) that extracts text from images so that it can be edited, formatted, indexed, searched, or translated.
 
-## PDFs and Converters
+### PDFs and Converters
 
 - [LottaTools](https://lottatools.com/)
 
@@ -441,7 +443,7 @@
 
 - [Pdf.to](https://pdf.to/) – Pdf.to is a Portable Document Format (PDF) Converter software to convert your file or image to and from PDF's. Convert PDF to Word, Excel, JPG, PPT, DOC, PNG and more with Pdf.to! Compress too. No registration or installation needed.
 
-# Electronics and Mechanics
+## Electronics and Mechanics
 
 - [All About Circuits – Electrical Engineering & Electronics Community](https://www.allaboutcircuits.com/) – The fastest growing community of electrical engineers with 300+ new members every day seeking technical articles, advanced education, tools, and peer-to-peer discussions.
 
@@ -453,7 +455,7 @@
 
 - [SimScale](https://www.simscale.com/) – Engineering simulation in your browser – CFD, FEA + more | HPC engineering simulation in your web browser: CFD, FEA and more – efficient, scalable and flexible.
 
-# Entrepreneurs
+## Entrepreneurs
 
 - [+400 Awesome Freebies for Entrepreneurs & Small Businesses](https://growthsupply.com/free/all/) – All the awesome free startup resources in one place.
 
@@ -471,9 +473,9 @@
 
 - [Uruguay Emprendedor](https://uruguayemprendedor.uy/) – Sitio Uruguay Emprendedor.
 
-# Files and Sharing
+## Files and Sharing
 
-## Sharing
+### Sharing
 
 - [Anonymous File Upload – AnonFile](https://anonfile.com/)
 
@@ -485,7 +487,7 @@
 
 - [transfer.sh – Easy and fast file sharing from the command-line.](https://transfer.sh/)
 
-## Storage
+### Storage
 
 - [Box](https://account.box.com/)
 
@@ -503,7 +505,7 @@
 
 - [Yandex](https://passport.yandex.com/)
 
-# Health
+## Health
 
 - [Drug Interactions – Drugs.com](https://www.drugs.com/interaction/list/) – Drug Interaction Checker. Check for drug-drug and drug-food interactions.
 
@@ -513,7 +515,7 @@
 
 - [Take a personality test – Open Source Psychometrics Project](https://openpsychometrics.org/)
 
-# Languages
+## Languages
 
 - [ESL: English as a Second Language for Teachers & Students – 7 E S L](https://7esl.com/) – English as a Second Language! Useful Learning Resources with ESL Printable Worksheets and Pictures for ESL Students and English Teachers.
 
@@ -525,7 +527,7 @@
 
 - [Preparing for the Writing Proficiency Exam (WPE)](https://writingcenter.calpoly.edu/content/gwr/wpe/wpe_prep) – Writing is a learned skill that composition and other writing-intensive classes help you cultivate through sustained practice. Reviewing the writing skills you have learned throughout your time in high school and college can help you prepare to succeed on the WPE. There are also a number of resources to help you with WPE preparation.
 
-## Dictionaries
+### Dictionaries
 
 - [Cambridge Dictionary | English Dictionary, Translations & Thesaurus](https://dictionary.cambridge.org/) – The most popular dictionary and thesaurus for learners of English. Meanings and definitions of words with pronunciations and translations.
 
@@ -563,7 +565,7 @@
 
 - [WordNet | A Lexical Database for English](https://wordnet.princeton.edu/)
 
-## Proofreading and Checking
+### Proofreading and Checking
 
 - [Free Online Proofreader: Grammar Check, Plagiarism Detection, and more](https://www.paperrater.com/) – PaperRater uses Artificial Intelligence to improve your writing. Includes grammar, plagiarism, and spelling check, along with word choice analysis and automated grading.
 
@@ -577,11 +579,11 @@
 
 - [Online Text Correction](https://www.onlinecorrection.com/) – Free online check for spelling, grammatical errors and correct diction.
 
-# Spanish
+## Spanish
 
 - [Diccionario panhispánico](http://lema.rae.es/dpd/)
 
-# Learn
+## Learn
 
 - [Stanford Lagunita](https://lagunita.stanford.edu/)
 
@@ -633,7 +635,7 @@
 
 - [The Open Source Data Science Masters by datasciencemasters](http://datasciencemasters.org/)
 
-# Legal
+## Legal
 
 - [Choose an open source license](https://choosealicense.com/) – Non-judgmental guidance on choosing a license for your open source project.
 
@@ -641,7 +643,7 @@
 
 - [TLDRLegal](https://tldrlegal.com/) – Lookup open source licenses summarized & explained in plain English.
 
-# Math teaching
+## Math teaching
 
 - [Desmos | Graphing Calculator](https://www.desmos.com/calculator) – A beautiful, free online graphing calculator from desmos.com
 
@@ -651,7 +653,7 @@
 
 - [Fórmulas](https://www.vitutor.net/) – Fórmulas de Matemáticas, formulario de Matemáticas, tablas, operaciones y apuntes de Matemáticas, Geometría, Trigonometría. Primaria, Secundaria, ESO, Bachillerato, Selectividad, PAU.
 
-# Privacy
+## Privacy
 
 - [Cryptomator: Free Cloud Encryption for Dropbox & Others](https://cryptomator.org/) – Free & Open Source client-side encryption for Dropbox, Google Drive, you name it. Protect your cloud files. Free software. No accounts, no backdoors.
 
@@ -681,7 +683,7 @@
 
 - [Tails – Privacy for anyone anywhere](https://tails.boum.org/)
 
-# Productivity
+## Productivity
 
 - [Clockify – 100% Free Time Tracking Software](https://clockify.me/) – Clockify is the only completely free time tracking software for teams. It's a simple time tracker and timesheet app for tracking work hours across projects.
 
@@ -695,9 +697,9 @@
 
 - [WakaTime · Open source plugins, goals, and automatic time tracking for programmers](https://wakatime.com/) – Productivity metrics for programmers.
 
-# Programming
+## Programming
 
-## Academic
+### Academic programming
 
 - [Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota) – 1146 leaderboards • 1223 tasks • 1105 datasets • 14793 papers with code.
 
@@ -715,17 +717,17 @@
 
 - [The BNF Converter](http://bnfc.digitalgrammars.com/)
 
-## Chatbots
+### Chatbots
 
 - [SAP Conversational AI | Automate Customer Service With AI Chatbots](https://cai.tools.sap/)
 
 - [Wit.ai](https://wit.ai/)
 
-## Code online
+### Code online
 
 - [Oracle Live SQL](https://livesql.oracle.com/apex/f)
 
-### Basic compilers
+#### Basic compilers
 
 - [Home – glot.io](https://glot.io/)
 
@@ -749,7 +751,7 @@
 
 - [Use Coq in Your Browser: The Js Coq Theorem Prover Online IDE!](https://jscoq.github.io/) – An Online IDE for the Coq Theorem Prover.
 
-### Full IDE
+#### Full IDE
 
 - [Breadboard.io – run code from github](https://breadboard.io/)
 
@@ -763,7 +765,7 @@
 
 - [Glitch](https://glitch.com/) – Simple, powerful, free tools to create and use millions of apps.
 
-### Jupyter notebooks
+#### Jupyter notebooks
 
 - [Binder](https://mybinder.org/)
 
@@ -775,7 +777,7 @@
 
 - [Notebooks AI | Jupyter Notebooks as a Service](https://notebooks.ai/) – Free Data Science environment in the cloud.
 
-## Web prototyping
+### Web prototyping
 
 - [CodePen – Front End Developer Playground &amp; Code Editor in the Browser](https://codepen.io/)
 
@@ -787,7 +789,7 @@
 
 - [GDB online Debugger | Compiler – Code, Compile, Run, Debug online C, C++](https://www.onlinegdb.com/) – Online GDB is online compiler and debugger for C/C++. You can compile, run and debug code with GDB online. Using gcc/g++ as compiler and gdb as debugger. Currently C and C++ languages are supported.
 
-## Documentation search
+### Documentation search
 
 - [ArchWiki](https://wiki.archlinux.org/index.php)
 
@@ -811,7 +813,7 @@
 
 - [SyntaxDB](https://syntaxdb.com/reference/search)
 
-## Hosts and CDNs
+### Hosts and CDNs
 
 - [Deployd](https://deployd.com/)
 
@@ -829,7 +831,7 @@
 
 - [Surge](https://surge.sh/) – Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.
 
-## Regex
+### Regex
 
 - [RegExr: Learn, Build, &amp; Test RegEx](https://regexr.com/)
 
@@ -837,7 +839,7 @@
 
 - [txt2re: headache relief for programmers :: regular expression generator](http://www.txt2re.com/index-python.php3) – Regular Expression Generator for languages Perl PHP Python Java Javascript ColdFusion C C++ Ruby VB VBScript JSharp CSharp C++ dotnet VB
 
-## Web development
+### Web development
 
 - [API Marketplace – Free Public &amp; Open Rest APIs | RapidAPI](https://rapidapi.com/)
 
@@ -881,13 +883,13 @@
 
 - [System Designer](https://designfirst.io/designer/) – An IDE for designing systems.
 
-# Speech to text
+## Speech to text
 
 - [SpeechTexter | Type with your voice!](https://www.speechtexter.com/) – Online voice to text speech recognition. Dictate with your voice. Free web app for typing with your voice. Over 60 different languages supported! A Dragon Naturally Speaking free alternative.
 
 - [Voice Dictation – Online Speech Recognition](https://dictation.io/) – Dictation is a free online speech recognition software that will help you write emails, documents and essays using your voice narration and without typing.
 
-# Student resources
+## Student resources
 
 - [GCP Free Tier – Free Extended Trials and Always Free  |  Google Cloud](https://cloud.google.com/free/) – GCP Free Tier expands our free program in two ways. $300 credit in a 12-month free trial and Always Free. Learn more.
 
@@ -905,7 +907,7 @@
 
 - [Travis CI – Test and Deploy with Confidence](https://travis-ci.com/account/repositories)
 
-# Visualizations
+## Visualizations
 
 - [Create charts and maps with Datawrapper](https://www.datawrapper.de/) – Create interactive, responsive & beautiful charts — no code required.
 
@@ -919,7 +921,7 @@
 
 - [yEd Live](https://www.yworks.com/yed-live/) – yEd Live is a free diagram editor web application that runs in the browser and lets you quickly create, import, edit, and automatically arrange diagrams.
 
-# Find software
+## Find software
 
 - [AlternativeTo – Crowdsourced software recommendations](https://alternativeto.net/software/) – AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more by recommending alternatives to apps you already know.
 
@@ -927,25 +929,25 @@
 
 - [flathub](https://flathub.org/home) – The home of hundreds of apps which can be easily installed on any Linux distribution.
 
-# Financial
-    
+## Financial
+
 - [Aliexpress price history, comparision, seller check, search by image](https://www.alisuperstar.com/)
 - [FAQ - Pricearchive.org](https://www.pricearchive.org/faq#q0)
 - [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 
-# TV Series
-  
+## TV Series
+
 - [Watch Latest Movies and TV Shows For Free on lookmovie.ag](https://lookmovie.ag/)
 - [MoviesJoy - Free movies streaming, watch movies online](https://www1.moviesjoy.net/)
 - [Cartoon HD - Download APK | Watch Movies & TV Shows](https://cartoonhd.app/)
 - [Watch Series – Full Episodes](https://newepisodes.co/) – High quality streaming links to the most popular TV shows minutes after they air!
 
-# Security
+## Security
 
 - [Rainbow Crackalack: Make Rainbow Tables Great Again](https://www.rainbowcrackalack.com/)
 - [List of Rainbow Tables](https://project-rainbowcrack.com/table.htm)
 
-# Others
+## Others
 
 - [GitHub – aviaryan/awesome-no-login-web-apps: 🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps) – 🚀 Awesome (free) web apps that work without login. Contribute to aviaryan/awesome-no-login-web-apps development by creating an account on GitHub.
 - [KnowFlow](https://www.knowflow.io/profile/boards)
@@ -1051,4 +1053,3 @@
 - [Extract Title Tag and Meta Description from URLs – Free SEO Tool](http://tools.buzzstream.com/meta-tag-extractor) – Enter a list of URLs and this tool will return the title tag, keywords and description for them.
 - [SlimWiki](https://slimwiki.com/) – Beautiful Wikis for Teams. Get started today, free forever!
 - [DownSub.com | Download and save subtitles](https://downsub.com/) – DownSub is a free web application that can download and save subtitles directly from Youtube, Drive, DramaFever, Viki, OnDemandKorea, Vlive and more.
-
