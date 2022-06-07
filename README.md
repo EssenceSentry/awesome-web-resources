@@ -297,6 +297,10 @@
 
 - [Textures: All | Texture Haven](https://texturehaven.com/textures/) – 100% Free High Quality Textures for Everyone.
 
+- [Illustrations Figma](https://www.artify.co/illustrations-figma) – More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more..
+
+- [Vector Illustrations](https://www.artify.co/vector-illustrations) – Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish..
+
 #### Photos
 
 - [Pixabay](https://pixabay.com/) – 1 million+ Stunning Free Images to Use Anywhere. Find your perfect free image or video to download and use for anything. ✓ Free for commercial use ✓ No attribution required ✓ High quality images.
@@ -366,6 +370,10 @@
 - [SVG PORN](https://svgporn.com/)
 
 - [Worldvectorlogo — Brand logos free to download](https://worldvectorlogo.com/) – Worldvectorlogo has the largest SVG logo vector collection. All logos work with EPS, AI, PSD and Adobe PDF. No account and unlimited downloads for free.
+
+- [3dicons](https://www.3dicons.com/) – A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
+
+- [Iconshock](https://www.iconshock.com/) – A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
 
 #### Video
 
@@ -883,6 +891,8 @@
 
 - [System Designer](https://designfirst.io/designer/) – An IDE for designing systems.
 
+- [Optimize Images](https://www.optimizeimages.com) – Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation..
+
 ## Speech to text
 
 - [SpeechTexter | Type with your voice!](https://www.speechtexter.com/) – Online voice to text speech recognition. Dictate with your voice. Free web app for typing with your voice. Over 60 different languages supported! A Dragon Naturally Speaking free alternative.
@@ -1053,3 +1063,4 @@
 - [Extract Title Tag and Meta Description from URLs – Free SEO Tool](http://tools.buzzstream.com/meta-tag-extractor) – Enter a list of URLs and this tool will return the title tag, keywords and description for them.
 - [SlimWiki](https://slimwiki.com/) – Beautiful Wikis for Teams. Get started today, free forever!
 - [DownSub.com | Download and save subtitles](https://downsub.com/) – DownSub is a free web application that can download and save subtitles directly from Youtube, Drive, DramaFever, Viki, OnDemandKorea, Vlive and more.
+- [Tshirt Designs](https://www.tshirtdesigns.com/mockups) – You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business.
