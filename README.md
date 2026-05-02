@@ -388,6 +388,7 @@
 - [Font style matcher](https://meowni.ca/font-style-matcher/)
 
 - [Google Fonts](https://fonts.google.com/) – Making the web more beautiful, fast, and open through great typography.
+- [FontsWiki](https://fontswiki.com/) – Searchable font catalog with free-alternative guides and real-world fonts-in-use references.
 
 - [In-Depth Guide to the Best Free Fonts • Beautiful Web Type](https://beautifulwebtype.com/) – Discover the best free fonts from Google and across the web. See beautiful examples, recommended pairings, OpenType features, and more.
 
