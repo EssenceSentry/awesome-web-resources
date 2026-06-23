@@ -791,6 +791,7 @@
 
 ### Documentation search
 
+- [AIPower.spot](https://aipower.spot/) – Online catalog and platform for searching and selecting tools based on artificial intelligence (AI).
 - [ArchWiki](https://wiki.archlinux.org/index.php)
 
 - [Awesome Indexed – Searchable Awesome Lists](https://awesome-indexed.mathew-davies.co.uk/)
