@@ -163,6 +163,8 @@
 
 - [Browse formulas – fx​Solver](https://www.fxsolver.com/browse/)
 
+- [Jisuanqi 3000](https://jsq3000.com/) – Free China-localized online calculators for mortgage, income tax, take-home salary, auto purchase cost, compound interest, BMI, body fat and more.
+
 - [Online Calculators & Tools – RapidTables.com](https://www.rapidtables.com/) – Online reference and tools – calculators, converters, math, electricity, web design.
 
 ## Communication
