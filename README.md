@@ -165,6 +165,8 @@
 
 - [Online Calculators & Tools – RapidTables.com](https://www.rapidtables.com/) – Online reference and tools – calculators, converters, math, electricity, web design.
 
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) – Free concrete calculators for slab volume, bag counts, ready-mix decisions, footings, post holes, and project cost checks.
+
 ## Communication
 
 - [Adjourn](https://www.adjourn.io/)
