@@ -164,6 +164,9 @@
 - [Browse formulas – fx​Solver](https://www.fxsolver.com/browse/)
 
 - [Online Calculators & Tools – RapidTables.com](https://www.rapidtables.com/) – Online reference and tools – calculators, converters, math, electricity, web design.
+- [WattsCalc](https://wattscalc.com) – Free wattage and electricity cost calculator for appliances and devices.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) – Free calculator for lawn mowing cost estimates by area, rate, and extras.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) – Free stitch-count and embroidery pricing calculator for makers.
 
 ## Communication
 
@@ -188,6 +191,7 @@
 - [Colourcode – Color palette](https://colourco.de/) – colourco.de is an online designer tool, which allows you to easily and intuitively combine colours.
 
 - [Coolors.co – The super fast color schemes generator](https://coolors.co/) – Beautiful color palettes for your projects.
+- [Codex Theme Builder](https://codextheme.tools) – Free browser CSS theme builder for OpenAI Codex CLI.
 
 - [Culrs | Culrs gives you a simple smart approach to choose color palettes](https://culrs.com/) – Thoughtfully crafted and easy-to-use color palettes.
 
@@ -302,6 +306,7 @@
 - [Pixabay](https://pixabay.com/) – 1 million+ Stunning Free Images to Use Anywhere. Find your perfect free image or video to download and use for anything. ✓ Free for commercial use ✓ No attribution required ✓ High quality images.
 
 - [Unsplash](https://unsplash.com/) – Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) – Free browser tool that converts a photo into a crochet pattern.
 
 - [FreeImages.com](https://www.freeimages.com/) – Browse over 300,000 free stock photos and find the perfect royalty-free image quickly. Download free, high quality stock images, for every day or commercial use. No purchase required.
 
@@ -450,6 +455,7 @@
 - [OpenBuilds](https://openbuilds.com/)
 
 - [Datasheets, Electronic Parts, Components, Search – Octopart](https://octopart.com/) – Octopart is a search engine for electronic and industrial parts. Find part data, check availability, and compare prices across hundreds of distributors and thousands of manufacturers.
+- [Pressure Washer Fix](https://pressurewasherfix.com) – Free pressure-washer troubleshooting guides and parts lookup.
 
 - [Descargas CAD](http://www.skf.com/cl/knowledge-centre/engineering-tools/skf-bearings-housings-units-and-seals-cad-models-general-instructions.html)
 
@@ -949,6 +955,7 @@
 
 ## Others
 
+- [SkyCOTL Tools](https://skycotl.tools) – Free companion tools for Sky: Children of the Light (candles, seasons, quests).
 - [GitHub – aviaryan/awesome-no-login-web-apps: 🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps) – 🚀 Awesome (free) web apps that work without login. Contribute to aviaryan/awesome-no-login-web-apps development by creating an account on GitHub.
 - [KnowFlow](https://www.knowflow.io/profile/boards)
 - [BioLinky - Enhance your online presence.](https://biolinky.co/)
