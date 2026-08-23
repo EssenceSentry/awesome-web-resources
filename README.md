@@ -165,6 +165,8 @@
 
 - [Online Calculators & Tools – RapidTables.com](https://www.rapidtables.com/) – Online reference and tools – calculators, converters, math, electricity, web design.
 
+- [WorkroomCalc](https://workroomcalc.co.uk/) – Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates. No signup.
+
 ## Communication
 
 - [Adjourn](https://www.adjourn.io/)
